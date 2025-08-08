@@ -6,47 +6,47 @@
 ## 📖 Matched Verses
 
 ### 1. Matthew 6:33 (NIV)
-> "But seek first His kingdom and His righteousness, and all these things will be given to you as well."
+> "But seek first his kingdom and his righteousness, and all these things will be given to you as well."
 
-**Reason:** This verse emphasizes the priority of seeking God's kingdom over earthly concerns.
+**Reason:** This verse emphasizes prioritizing God's kingdom above all else.
 
-**Reflection:** When we prioritize God's kingdom, all our needs are met.
-
----
-
-### 2. Luke 17:20-21 (ESV)
-> "Being asked by the Pharisees when the kingdom of God would come, he answered them, 'The kingdom of God is not coming in ways that can be observed, nor will they say, ‘Look, here it is!’ or ‘There!’ for behold, the kingdom of God is in the midst of you.'"
-
-**Reason:** Jesus explains that God's kingdom is not a physical realm but a spiritual reality among us.
-
-**Reflection:** God's kingdom is present in our hearts and lives today.
+**Reflection:** True fulfillment comes when we focus on God's kingdom first.
 
 ---
 
-### 3. Colossians 1:13 (NIV)
-> "For he has rescued us from the dominion of darkness and brought us into the kingdom of the Son he loves."
+### 2. Daniel 2:44 (ESV)
+> "And in the days of those kings the God of heaven will set up a kingdom that shall never be destroyed, nor shall the kingdom be left to another people. It shall break in pieces all these kingdoms and bring them to an end, and it shall stand forever."
 
-**Reason:** This verse describes the transfer from a kingdom of darkness to the kingdom of Christ.
+**Reason:** This prophecy highlights the eternal nature of God's kingdom.
 
-**Reflection:** Through Christ, we are brought into a kingdom of love and light.
+**Reflection:** God's kingdom is everlasting and surpasses all earthly realms.
+
+---
+
+### 3. Luke 17:20-21 (NIV)
+> "Once, on being asked by the Pharisees when the kingdom of God would come, Jesus replied, 'The coming of the kingdom of God is not something that can be observed, nor will people say, "Here it is," or "There it is," because the kingdom of God is in your midst.'"
+
+**Reason:** Jesus explains that the kingdom of God is a present reality among us.
+
+**Reflection:** God's kingdom is present within us and around us now.
 
 ---
 
 ### 4. Romans 14:17 (NIV)
 > "For the kingdom of God is not a matter of eating and drinking, but of righteousness, peace and joy in the Holy Spirit."
 
-**Reason:** Paul describes the kingdom of God as characterized by spiritual qualities rather than physical rituals.
+**Reason:** This verse describes the spiritual nature of God's kingdom, focusing on virtues.
 
-**Reflection:** God's kingdom is marked by inner peace and joy through the Spirit.
+**Reflection:** The essence of God's kingdom is found in spiritual qualities.
 
 ---
 
 ### 5. Revelation 11:15 (NIV)
 > "The seventh angel sounded his trumpet, and there were loud voices in heaven, which said: 'The kingdom of the world has become the kingdom of our Lord and of his Messiah, and he will reign for ever and ever.'"
 
-**Reason:** This verse proclaims the ultimate fulfillment of God's kingdom on earth.
+**Reason:** This verse speaks to the ultimate triumph of God's kingdom over all.
 
-**Reflection:** God's eternal kingdom will ultimately triumph over all earthly realms.
+**Reflection:** God’s kingdom will ultimately prevail and reign eternally.
 
 ---
 
