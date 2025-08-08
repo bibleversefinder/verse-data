@@ -1,41 +1,41 @@
 {
   "query": "are we alone?",
-  "timestamp": "2025-08-08T12:01:35.652Z",
+  "timestamp": "2025-08-08T12:01:38.693Z",
   "results": [
-    {
-      "reference": "Isaiah 41:10",
-      "text": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
-      "version": "NIV",
-      "reason": "This verse assures us of God's presence and support, affirming that we are not alone.",
-      "reflection": "In moments of solitude, God's presence is our source of strength and comfort."
-    },
     {
       "reference": "Deuteronomy 31:6",
       "text": "Be strong and courageous. Do not be afraid or terrified because of them, for the LORD your God goes with you; he will never leave you nor forsake you.",
       "version": "NIV",
-      "reason": "God's promise to never leave or forsake us highlights that we are never truly alone.",
-      "reflection": "God's unwavering presence encourages us to face life's challenges without fear."
+      "reason": "This verse assures us of God's constant presence, affirming that we are never alone.",
+      "reflection": "In moments of fear, remember that God is always by our side."
     },
     {
       "reference": "Matthew 28:20",
       "text": "And surely I am with you always, to the very end of the age.",
       "version": "NIV",
-      "reason": "Jesus' promise of His continual presence reassures us of His eternal companionship.",
-      "reflection": "Christ's enduring presence is a constant companion in every season of life."
+      "reason": "Jesus promises His eternal presence with His followers, emphasizing that we are never truly alone.",
+      "reflection": "Christ's promise of presence brings peace and comfort in every situation."
     },
     {
       "reference": "Psalm 139:7-10",
       "text": "Where shall I go from your Spirit? Or where shall I flee from your presence? If I ascend to heaven, you are there! If I make my bed in Sheol, you are there! If I take the wings of the morning and dwell in the uttermost parts of the sea, even there your hand shall lead me, and your right hand shall hold me.",
       "version": "ESV",
-      "reason": "This passage highlights God's omnipresence, affirming that we are never outside His care.",
-      "reflection": "God's presence is inescapable, a comforting truth in the vastness of existence."
+      "reason": "This passage illustrates God's omnipresence, affirming that we are never beyond His reach.",
+      "reflection": "No matter where we go, God's guiding hand is always with us."
     },
     {
-      "reference": "Romans 8:38-39",
-      "text": "For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.",
+      "reference": "Isaiah 41:10",
+      "text": "Fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand.",
       "version": "ESV",
-      "reason": "Paul's declaration emphasizes that nothing can separate us from God's love, ensuring we are never alone.",
-      "reflection": "The inseparable love of God in Christ assures us of His perpetual presence."
+      "reason": "God reassures us that He is with us, providing strength and support, eliminating the fear of being alone.",
+      "reflection": "Find strength in God's unwavering support and presence."
+    },
+    {
+      "reference": "John 14:16-17",
+      "text": "And I will ask the Father, and he will give you another Helper, to be with you forever, even the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him. You know him, for he dwells with you and will be in you.",
+      "version": "ESV",
+      "reason": "Jesus promises the Holy Spirit as a constant companion to believers, ensuring we are never alone.",
+      "reflection": "The Holy Spirit's presence within us is a continual reminder of God's closeness."
     }
   ]
 }
