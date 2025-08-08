@@ -1,51 +1,130 @@
 # 📖 Verse – Open Bible Verse Dataset & FAQ
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16756625.svg)](https://doi.org/10.5281/zenodo.16756625)
+
 Welcome to the open-source content repository for **[Verse](https://www.bibleversefinder.app)** — a minimalist Bible verse app that delivers meaningful scripture based on emotion, daily inspiration, or keyword search.
 
 This repo contains structured JSON and Markdown files designed for:
-- 🧠 AI / LLM parsing
-- 🔎 Search engine optimization (SEO)
-- 🙏 Christian devotional insight
-- 📘 Bible verse reference and metadata
+- 🧠 AI / LLM parsing  
+- 🔎 Search engine optimization (SEO)  
+- 🙏 Christian devotional insight  
+- 📘 Bible verse reference and metadata  
 
 ---
 
 ## 🔧 Repository Contents
 
-| File | Description |
-|------|-------------|
-| `verse-faq.json` | Structured frequently asked questions |
-| `verse-daily.json` | Daily Bible verses with theological notes |
-| `verse-emotion.json` | Emotion-mapped verses (e.g., “anxiety”, “hope”) |
-| `schema-faq.json` | JSON-LD version of the FAQ for rich results |
-| `README.md` | Documentation and usage guide |
+File/Folder | Description
+---|---
+`verse-faq.json` | Structured frequently asked questions  
+`verse-daily.json` | Daily Bible verses with theological notes  
+`verse-emotion.json` | Emotion-mapped verses (e.g., “anxiety”, “hope”)  
+`schema-faq.json` | JSON-LD version of the FAQ for rich results  
+`searches/` | **Auto-generated JSON log of every user search** (append-only)  
+`README.md` | Documentation and usage guide  
 
 ---
 
 ## 🧠 JSON Format: Verse Entries
 
-Each verse in `verse-daily.json` and `verse-emotion.json` follows this format:
+Example structure from `verse-daily.json` or `verse-emotion.json`:
 
 ```json
 {
-  "reference": "Book Chapter:Verse",
-  "text": "Full verse text.",
-  "version": "NIV or ESV",
-  "reason": "1–2 sentence explanation of how the verse theologically or spiritually connects to the prompt, referencing the book’s biblical themes when relevant.",
-  "reflection": "A one-line devotional insight or spiritual call-to-awareness rooted in the verse’s meaning."
+  "reference": "John 3:16",
+  "text": "For God so loved the world...",
+  "version": "ESV",
+  "reason": "Encouragement in faith",
+  "reflection": "This verse reassures believers of God’s love."
 }
+```
 
-{
-  "reference": "Isaiah 41:10",
-  "text": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
-  "version": "NIV",
-  "reason": "This verse speaks directly to fear and discouragement. Isaiah reminds God’s people of His enduring strength and presence in times of trial.",
-  "reflection": "You are not alone in your weakness—God holds you up."
-}
+---
 
+## 📂 JSON Format: Search Logs
+
+Each file in `searches/` represents a single search event.
+
+**Example filename:**
+```
+2025-08-08T12-30-05Z_has-my-ai-agent-finally-done-it-378263.json
+```
+
+**Schema:**
+```json
 {
-  "question": "How do I sign up?",
-  "answer": "You can sign up with your email to receive daily verses and updates. Signing up also unlocks personalized verse suggestions.",
-  "source": "https://www.bibleversefinder.app/signup",
-  "tags": ["sign up", "daily email", "notifications"]
+  "id": "ulid-or-uuid",
+  "timestamp": "2025-08-08T12:30:05Z",
+  "query_raw": "Has my AI agent finally done it?",
+  "query_normalized": "has-my-ai-agent-finally-done-it-378263",
+  "source": "web|api|app",
+  "session_id": "optional",
+  "client": { "ip_hash": "optional", "ua": "optional" },
+  "results": [
+    {
+      "reference": "John 3:16",
+      "text": "...",
+      "version": "ESV",
+      "reason": "...",
+      "reflection": "..."
+    }
+  ],
+  "meta": {
+    "filters": ["emotion:hope"],
+    "ranker": "v1.3",
+    "latency_ms": 123
+  }
 }
+```
+
+---
+
+## 🔒 Privacy
+
+Search logs are **content-only**.  
+No personal identifiers (such as IP addresses or names) are stored.  
+Optional fields like `ip_hash` are anonymized and may be omitted entirely.
+
+---
+
+## 📦 Consuming the Data
+
+**CDN (cached via jsDelivr):**
+```
+https://cdn.jsdelivr.net/gh/bibleversefinder/verse-data/searches/<filename>.json
+```
+
+**GitHub Raw:**
+```
+https://raw.githubusercontent.com/bibleversefinder/verse-data/main/searches/<filename>.json
+```
+
+**Example (specific search log):**
+```
+https://cdn.jsdelivr.net/gh/bibleversefinder/verse-data/searches/2025-08-08T12-30-05Z_has-my-ai-agent-finally-done-it-378263.json
+```
+
+---
+
+## 📜 Contributing
+
+- Do **not** manually edit files in `searches/` — they are generated automatically.  
+- PRs that add new fields to the search log schema must also update this README.  
+- For verse content updates, follow existing JSON formatting to ensure compatibility.  
+
+---
+
+## 📚 Citation
+
+If you use this dataset in research or development, please cite:
+
+```bibtex
+@dataset{verse_dataset_2025,
+  author       = {BibleVerseFinder Contributors},
+  title        = {Verse – Open Bible Verse Dataset & FAQ},
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.16756625},
+  url          = {https://doi.org/10.5281/zenodo.16756625}
+}
+```
