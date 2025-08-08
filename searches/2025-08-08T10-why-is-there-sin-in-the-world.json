@@ -1,0 +1,41 @@
+{
+  "query": "why is there sin in the world",
+  "timestamp": "2025-08-08T10:31:04.285Z",
+  "results": [
+    {
+      "reference": "Romans 5:12",
+      "text": "Therefore, just as sin entered the world through one man, and death through sin, and in this way death came to all people, because all sinned—",
+      "version": "NIV",
+      "reason": "This verse explains how sin entered the world through Adam, affecting all of humanity.",
+      "reflection": "Sin's entry through Adam reminds us of the profound impact of choices on the world."
+    },
+    {
+      "reference": "Genesis 3:6",
+      "text": "So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took of its fruit and ate, and she also gave some to her husband who was with her, and he ate.",
+      "version": "ESV",
+      "reason": "This verse describes the original act of disobedience that brought sin into the world.",
+      "reflection": "The temptation of sin often comes in appealing forms, challenging our obedience to God."
+    },
+    {
+      "reference": "Romans 3:23",
+      "text": "For all have sinned and fall short of the glory of God,",
+      "version": "NIV",
+      "reason": "This verse highlights the universality of sin among all people.",
+      "reflection": "Acknowledging our sinfulness is the first step towards seeking God's grace."
+    },
+    {
+      "reference": "1 John 3:8",
+      "text": "Whoever makes a practice of sinning is of the devil, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil.",
+      "version": "ESV",
+      "reason": "This verse explains the role of the devil in promoting sin and Christ's mission to overcome it.",
+      "reflection": "Christ's victory over sin offers us hope and a path to redemption."
+    },
+    {
+      "reference": "James 1:14-15",
+      "text": "But each person is tempted when they are dragged away by their own evil desire and enticed. Then, after desire has conceived, it gives birth to sin; and sin, when it is full-grown, gives birth to death.",
+      "version": "NIV",
+      "reason": "This passage outlines the process of temptation leading to sin and its consequences.",
+      "reflection": "Understanding the progression of sin can empower us to resist temptation early on."
+    }
+  ]
+}
