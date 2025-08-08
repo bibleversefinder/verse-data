@@ -1,41 +1,41 @@
 {
   "query": "Ai is expensive?",
-  "timestamp": "2025-08-08T12:17:31.651Z",
+  "timestamp": "2025-08-08T12:17:41.384Z",
   "results": [
-    {
-      "reference": "Luke 14:28",
-      "text": "Suppose one of you wants to build a tower. Won't you first sit down and estimate the cost to see if you have enough money to complete it?",
-      "version": "NIV",
-      "reason": "This verse highlights the importance of considering the cost before undertaking a significant project.",
-      "reflection": "Wise planning and foresight are crucial when investing in new technologies."
-    },
-    {
-      "reference": "Proverbs 21:5",
-      "text": "The plans of the diligent lead to profit as surely as haste leads to poverty.",
-      "version": "NIV",
-      "reason": "This verse emphasizes the value of diligent planning to avoid unnecessary expenses.",
-      "reflection": "Thoughtful and careful planning can lead to successful outcomes in costly ventures."
-    },
-    {
-      "reference": "Matthew 6:21",
-      "text": "For where your treasure is, there your heart will be also.",
-      "version": "NIV",
-      "reason": "This verse suggests reflecting on what we value most and where we choose to invest our resources.",
-      "reflection": "Evaluate whether AI is truly where you want to invest your 'treasure' and focus."
-    },
     {
       "reference": "Proverbs 22:7",
       "text": "The rich rule over the poor, and the borrower is slave to the lender.",
       "version": "NIV",
-      "reason": "This verse warns about the potential pitfalls of financial obligations and debt.",
-      "reflection": "Be cautious of the financial implications and commitments when investing in AI."
+      "reason": "This verse highlights the financial power dynamics and the burden of debt, which can be relevant to the high costs of AI technologies.",
+      "reflection": "Be mindful of financial commitments and seek wisdom in investments."
+    },
+    {
+      "reference": "Luke 14:28",
+      "text": "Suppose one of you wants to build a tower. Won’t you first sit down and estimate the cost to see if you have enough money to complete it?",
+      "version": "NIV",
+      "reason": "Jesus advises counting the cost before undertaking a project, which aligns with considering the expenses of AI.",
+      "reflection": "Plan wisely and count the cost before investing in new technologies."
     },
     {
       "reference": "1 Timothy 6:10",
       "text": "For the love of money is a root of all kinds of evil. Some people, eager for money, have wandered from the faith and pierced themselves with many griefs.",
       "version": "NIV",
-      "reason": "This verse reminds us of the dangers of prioritizing financial gain over spiritual well-being.",
-      "reflection": "Ensure that the pursuit of AI does not lead you away from your core values and beliefs."
+      "reason": "This verse warns against the pursuit of wealth at the expense of spiritual health, relevant to prioritizing expensive technologies over faith.",
+      "reflection": "Guard your heart against valuing wealth over spiritual well-being."
+    },
+    {
+      "reference": "Ecclesiastes 5:10",
+      "text": "Whoever loves money never has enough; whoever loves wealth is never satisfied with their income. This too is meaningless.",
+      "version": "NIV",
+      "reason": "Solomon observes the insatiable nature of wealth pursuit, akin to the ongoing demand for expensive technology.",
+      "reflection": "Find contentment in God rather than in accumulating wealth or technology."
+    },
+    {
+      "reference": "Proverbs 23:4-5",
+      "text": "Do not toil to acquire wealth; be discerning enough to desist. When your eyes light on it, it is gone, for suddenly it sprouts wings, flying like an eagle toward heaven.",
+      "version": "ESV",
+      "reason": "These verses caution against overworking for wealth, which can disappear quickly, similar to investing heavily in fleeting technologies.",
+      "reflection": "Seek wisdom and balance rather than chasing after temporary gains."
     }
   ]
 }
