@@ -1,41 +1,41 @@
 {
   "query": "me",
-  "timestamp": "2025-08-08T06:39:20.579Z",
+  "timestamp": "2025-08-08T06:39:29.201Z",
   "results": [
     {
-      "reference": "Philippians 4:13",
-      "text": "I can do all this through him who gives me strength.",
+      "reference": "Psalm 139:13-14",
+      "text": "For you created my inmost being; you knit me together in my mother’s womb. I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.",
       "version": "NIV",
-      "reason": "This verse emphasizes personal empowerment through faith.",
-      "reflection": "God is the source of my strength and capabilities."
+      "reason": "These verses emphasize the personal relationship and care God has in creating each individual.",
+      "reflection": "I am uniquely crafted by God's loving hands, reminding me of my intrinsic worth."
     },
     {
-      "reference": "Psalm 23:1",
-      "text": "The Lord is my shepherd, I lack nothing.",
-      "version": "NIV",
-      "reason": "This verse highlights a personal relationship with God as a provider.",
-      "reflection": "With God guiding me, I have all I need."
-    },
-    {
-      "reference": "Isaiah 41:10",
-      "text": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
-      "version": "NIV",
-      "reason": "This verse reassures of God's presence and support personally.",
-      "reflection": "God's presence alleviates my fears and strengthens me."
+      "reference": "Jeremiah 29:11",
+      "text": "For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope.",
+      "version": "ESV",
+      "reason": "This verse reassures us that God has a specific, positive plan for each of our lives.",
+      "reflection": "God holds my future, guiding me towards hope and prosperity."
     },
     {
       "reference": "Matthew 11:28",
       "text": "Come to me, all you who are weary and burdened, and I will give you rest.",
       "version": "NIV",
-      "reason": "Jesus offers personal rest to those who are struggling.",
-      "reflection": "I find rest in Jesus amidst life's burdens."
+      "reason": "Jesus invites individuals to come to Him personally for rest and relief.",
+      "reflection": "In my weariness, I find rest in Jesus' inviting presence."
     },
     {
-      "reference": "Galatians 2:20",
-      "text": "I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.",
+      "reference": "Philippians 4:13",
+      "text": "I can do all things through him who strengthens me.",
+      "version": "ESV",
+      "reason": "This verse speaks to the personal empowerment and strength found in Christ.",
+      "reflection": "With Christ's strength, I am empowered to overcome any challenge."
+    },
+    {
+      "reference": "John 15:5",
+      "text": "I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing.",
       "version": "NIV",
-      "reason": "This verse speaks of a personal transformation through faith in Christ.",
-      "reflection": "My identity is found in Christ who dwells within me."
+      "reason": "These words from Jesus highlight the importance of a personal connection to Him for spiritual growth and productivity.",
+      "reflection": "Staying connected to Jesus is vital for a fruitful and purposeful life."
     }
   ]
 }
