@@ -8,45 +8,45 @@
 ### 1. Philippians 4:7 (NIV)
 > "And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
 
-**Reason:** This verse speaks directly to the peace that comes from God, which is beyond human comprehension.
+**Reason:** This verse highlights the peace that comes from God, which is beyond human comprehension.
 
-**Reflection:** True peace is found in trusting God and allowing His presence to protect our hearts.
-
----
-
-### 2. Isaiah 26:3 (ESV)
-> "You keep him in perfect peace whose mind is stayed on you, because he trusts in you."
-
-**Reason:** This verse highlights the connection between trust in God and the experience of perfect peace.
-
-**Reflection:** Focusing on God brings a tranquility that the world cannot offer.
+**Reflection:** True peace is found in God, guarding our hearts and minds.
 
 ---
 
-### 3. John 14:27 (NIV)
-> "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid."
+### 2. Isaiah 26:3 (NIV)
+> "You will keep in perfect peace those whose minds are steadfast, because they trust in you."
 
-**Reason:** Jesus promises a unique peace that He leaves with His followers, distinct from worldly peace.
+**Reason:** This verse emphasizes that trusting in God results in perfect peace.
 
-**Reflection:** Embrace the peace Jesus offers, which calms fears and troubles.
+**Reflection:** Steadfast trust in God brings unshakeable peace.
+
+---
+
+### 3. John 16:33 (ESV)
+> "I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world."
+
+**Reason:** Jesus assures us of peace in Him despite the challenges of the world.
+
+**Reflection:** In Jesus, peace prevails over worldly troubles.
 
 ---
 
 ### 4. Colossians 3:15 (NIV)
 > "Let the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful."
 
-**Reason:** This verse encourages believers to allow Christ's peace to govern their hearts, fostering unity and gratitude.
+**Reason:** This verse calls believers to allow Christ's peace to govern their hearts and relationships.
 
-**Reflection:** Christ's peace is a guiding force that unites us and fills us with gratitude.
+**Reflection:** Christ's peace should guide our hearts and interactions.
 
 ---
 
-### 5. Psalm 4:8 (ESV)
-> "In peace I will both lie down and sleep; for you alone, O Lord, make me dwell in safety."
+### 5. Psalm 29:11 (NIV)
+> "The LORD gives strength to his people; the LORD blesses his people with peace."
 
-**Reason:** This verse expresses the confidence in God's protection that allows for peaceful rest.
+**Reason:** The verse declares that God provides both strength and peace to His people.
 
-**Reflection:** Resting in God's safety brings peace and security in every situation.
+**Reflection:** God's blessings include both strength and enduring peace.
 
 ---
 
