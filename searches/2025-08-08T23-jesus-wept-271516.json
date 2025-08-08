@@ -1,0 +1,41 @@
+{
+  "query": "jesus wept",
+  "timestamp": "2025-08-08T23:37:51.516Z",
+  "results": [
+    {
+      "reference": "John 11:35",
+      "text": "Jesus wept.",
+      "version": "NIV",
+      "reason": "This is the exact verse where Jesus shows his humanity and compassion by mourning the death of Lazarus.",
+      "reflection": "In our sorrow, Jesus meets us with empathy and understanding."
+    },
+    {
+      "reference": "Hebrews 4:15",
+      "text": "For we do not have a high priest who is unable to empathize with our weaknesses, but we have one who has been tempted in every way, just as we are—yet he did not sin.",
+      "version": "NIV",
+      "reason": "This verse highlights Jesus' ability to empathize with human suffering, connecting to his tears at Lazarus' death.",
+      "reflection": "Jesus understands our struggles and walks with us through them."
+    },
+    {
+      "reference": "Romans 12:15",
+      "text": "Rejoice with those who rejoice, weep with those who weep.",
+      "version": "ESV",
+      "reason": "Jesus' weeping exemplifies this call to share in the emotions of others, demonstrating true compassion.",
+      "reflection": "We are called to share in the joys and sorrows of our community."
+    },
+    {
+      "reference": "Psalm 34:18",
+      "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
+      "version": "NIV",
+      "reason": "This verse reflects the comfort and presence of God in times of grief, as Jesus' weeping shows his closeness to human pain.",
+      "reflection": "God's presence is a balm for our wounded hearts."
+    },
+    {
+      "reference": "Isaiah 53:3",
+      "text": "He was despised and rejected by mankind, a man of suffering, and familiar with pain. Like one from whom people hide their faces he was despised, and we held him in low esteem.",
+      "version": "NIV",
+      "reason": "Jesus is described as a man of sorrows, which aligns with his expression of grief in John 11:35.",
+      "reflection": "Jesus knows our pain intimately because he has endured it himself."
+    }
+  ]
+}
