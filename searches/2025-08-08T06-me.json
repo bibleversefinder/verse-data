@@ -1,0 +1,41 @@
+{
+  "query": "me",
+  "timestamp": "2025-08-08T06:39:19.752Z",
+  "results": [
+    {
+      "reference": "Philippians 4:13",
+      "text": "I can do all this through him who gives me strength.",
+      "version": "NIV",
+      "reason": "This verse emphasizes personal empowerment through faith.",
+      "reflection": "God is the source of my strength and capabilities."
+    },
+    {
+      "reference": "Psalm 23:1",
+      "text": "The Lord is my shepherd, I lack nothing.",
+      "version": "NIV",
+      "reason": "This verse highlights a personal relationship with God as a provider.",
+      "reflection": "With God guiding me, I have all I need."
+    },
+    {
+      "reference": "Isaiah 41:10",
+      "text": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
+      "version": "NIV",
+      "reason": "This verse reassures of God's presence and support personally.",
+      "reflection": "God's presence alleviates my fears and strengthens me."
+    },
+    {
+      "reference": "Matthew 11:28",
+      "text": "Come to me, all you who are weary and burdened, and I will give you rest.",
+      "version": "NIV",
+      "reason": "Jesus offers personal rest to those who are struggling.",
+      "reflection": "I find rest in Jesus amidst life's burdens."
+    },
+    {
+      "reference": "Galatians 2:20",
+      "text": "I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.",
+      "version": "NIV",
+      "reason": "This verse speaks of a personal transformation through faith in Christ.",
+      "reflection": "My identity is found in Christ who dwells within me."
+    }
+  ]
+}
