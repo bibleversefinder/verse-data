@@ -5,48 +5,48 @@
 
 ## 📖 Matched Verses
 
-### 1. Isaiah 41:10 (NIV)
-> "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
+### 1. Deuteronomy 31:6 (NIV)
+> "Be strong and courageous. Do not be afraid or terrified because of them, for the LORD your God goes with you; he will never leave you nor forsake you."
 
-**Reason:** This verse assures us of God's presence and support, which can be comforting in times of loneliness.
+**Reason:** This verse assures that God is always present, providing strength and companionship.
 
-**Reflection:** Even in loneliness, God's steadfast presence offers strength and support.
-
----
-
-### 2. Deuteronomy 31:6 (NIV)
-> "Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you; he will never leave you nor forsake you."
-
-**Reason:** This verse emphasizes that God is always with us, providing courage and companionship.
-
-**Reflection:** God's unwavering presence dispels the fear of being alone.
+**Reflection:** Even in loneliness, God’s presence offers unwavering support.
 
 ---
 
-### 3. Psalm 23:4 (NIV)
-> "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."
+### 2. Psalm 25:16 (NIV)
+> "Turn to me and be gracious to me, for I am lonely and afflicted."
 
-**Reason:** In moments of loneliness, this verse reminds us that God's presence is a source of comfort and protection.
+**Reason:** The psalmist's plea reflects a genuine cry for God’s companionship in times of loneliness.
 
-**Reflection:** God's presence illuminates the darkest paths, bringing comfort.
+**Reflection:** In moments of solitude, God hears our cries and extends His grace.
 
 ---
 
-### 4. Matthew 28:20 (NIV)
+### 3. Matthew 28:20 (NIV)
 > "And surely I am with you always, to the very end of the age."
 
-**Reason:** Jesus promises to be with us always, which can be particularly reassuring when feeling isolated.
+**Reason:** Jesus’ promise of His constant presence provides comfort and assurance.
 
-**Reflection:** Christ's eternal presence is a remedy for loneliness.
+**Reflection:** Christ's eternal presence is a balm for the lonely heart.
 
 ---
 
-### 5. Psalm 68:6 (NIV)
-> "God sets the lonely in families, he leads out the prisoners with singing; but the rebellious live in a sun-scorched land."
+### 4. Isaiah 41:10 (NIV)
+> "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
 
-**Reason:** This verse highlights God's provision of community and belonging for the lonely.
+**Reason:** God’s promise of support and presence alleviates the fear of isolation.
 
-**Reflection:** God places us in communities, ensuring we are never truly alone.
+**Reflection:** God's strength and help are ever-present, dispelling loneliness.
+
+---
+
+### 5. John 14:18 (ESV)
+> "I will not leave you as orphans; I will come to you."
+
+**Reason:** Jesus reassures His followers of His return and ongoing presence.
+
+**Reflection:** We are never abandoned; Jesus promises to be with us always.
 
 ---
 
