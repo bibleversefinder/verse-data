@@ -1,0 +1,41 @@
+{
+  "query": "test hope",
+  "timestamp": "2025-08-09T01:12:32.381Z",
+  "results": [
+    {
+      "reference": "Jeremiah 29:11",
+      "text": "For I know the plans I have for you, declares the Lord, plans for welfare and not for evil, to give you a future and a hope.",
+      "version": "ESV",
+      "reason": "This verse reassures us of God's plans, which include a hopeful future, even when tested.",
+      "reflection": "God's plans for us are filled with hope, even amidst uncertainty."
+    },
+    {
+      "reference": "1 Peter 1:6-7",
+      "text": "In all this you greatly rejoice, though now for a little while you may have had to suffer grief in all kinds of trials. These have come so that the proven genuineness of your faith—of greater worth than gold, which perishes even though refined by fire—may result in praise, glory and honor when Jesus Christ is revealed.",
+      "version": "NIV",
+      "reason": "Trials test our faith and hope, refining them to bring out their true value.",
+      "reflection": "Through trials, our hope and faith are purified and strengthened."
+    },
+    {
+      "reference": "Psalm 39:7",
+      "text": "And now, O Lord, for what do I wait? My hope is in you.",
+      "version": "ESV",
+      "reason": "This verse expresses a direct reliance on God as the source of hope.",
+      "reflection": "In every moment of waiting, placing our hope in God brings peace."
+    },
+    {
+      "reference": "Romans 5:3-5",
+      "text": "Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope. And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us.",
+      "version": "NIV",
+      "reason": "This passage highlights how hope is developed through trials and testing, showing its enduring nature.",
+      "reflection": "True hope, nurtured through perseverance, anchors us in God's love."
+    },
+    {
+      "reference": "Hebrews 11:1",
+      "text": "Now faith is confidence in what we hope for and assurance about what we do not see.",
+      "version": "NIV",
+      "reason": "This verse defines hope in the context of faith, emphasizing trust in the unseen.",
+      "reflection": "Faith and hope work together to give us confidence in God's promises."
+    }
+  ]
+}
