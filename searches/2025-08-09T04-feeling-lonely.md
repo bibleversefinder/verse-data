@@ -6,47 +6,47 @@
 ## 📖 Matched Verses
 
 ### 1. Deuteronomy 31:6 (NIV)
-> "Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you; he will never leave you nor forsake you."
+> "Be strong and courageous. Do not be afraid or terrified because of them, for the LORD your God goes with you; he will never leave you nor forsake you."
 
-**Reason:** This verse reminds us that God is always with us, providing comfort in times of loneliness.
+**Reason:** This verse reassures us of God's constant presence, especially in moments of loneliness.
 
-**Reflection:** Even in solitude, God's presence is our constant companion.
-
----
-
-### 2. Psalm 68:6 (NIV)
-> "God sets the lonely in families, he leads out the prisoners with singing; but the rebellious live in a sun-scorched land."
-
-**Reason:** It speaks to God’s ability to place the lonely within a community or family.
-
-**Reflection:** Trust that God will surround you with love and belonging.
+**Reflection:** Even in isolation, God's presence offers strength and courage.
 
 ---
 
-### 3. Isaiah 41:10 (NIV)
-> "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
+### 2. Psalm 23:4 (NIV)
+> "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."
 
-**Reason:** This verse reassures us of God's support and presence in lonely times.
+**Reason:** This verse speaks of God's presence in the darkest times, providing comfort and guidance.
 
-**Reflection:** God’s strength is sufficient to lift us from the depths of loneliness.
+**Reflection:** In life's valleys, God walks beside us, offering comfort and protection.
+
+---
+
+### 3. Isaiah 41:10 (ESV)
+> "Fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand."
+
+**Reason:** This verse emphasizes God's support and presence, offering strength during lonely times.
+
+**Reflection:** God's strength sustains us, lifting us up when we feel alone.
 
 ---
 
 ### 4. Matthew 28:20 (NIV)
 > "And surely I am with you always, to the very end of the age."
 
-**Reason:** Jesus promises His eternal presence, offering solace to those who feel alone.
+**Reason:** Jesus promises His perpetual presence, assuring us that we are never truly alone.
 
-**Reflection:** Jesus’ promise is our assurance that we are never truly alone.
+**Reflection:** Christ's promise of eternal presence brings hope amid loneliness.
 
 ---
 
-### 5. Psalm 23:4 (ESV)
-> "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."
+### 5. Psalm 139:7-10 (ESV)
+> "Where shall I go from your Spirit? Or where shall I flee from your presence? If I ascend to heaven, you are there! If I make my bed in Sheol, you are there! If I take the wings of the morning and dwell in the uttermost parts of the sea, even there your hand shall lead me, and your right hand shall hold me."
 
-**Reason:** This verse highlights God’s comforting presence even in our darkest moments.
+**Reason:** This passage highlights God's omnipresence, affirming that we are never beyond His reach.
 
-**Reflection:** In the valleys of loneliness, God’s comfort is our light.
+**Reflection:** No matter where we are, God's hand guides and holds us close.
 
 ---
 
