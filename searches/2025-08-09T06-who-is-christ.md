@@ -5,48 +5,48 @@
 
 ## 📖 Matched Verses
 
-### 1. John 1:14 (NIV)
-> "The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth."
+### 1. John 1:1 (NIV)
+> "In the beginning was the Word, and the Word was with God, and the Word was God."
 
-**Reason:** This verse reveals the incarnation of Christ, emphasizing His divine nature and mission.
+**Reason:** This verse identifies Christ as the Word, affirming His divine nature and eternal existence.
 
-**Reflection:** Christ embodies God's grace and truth, dwelling among humanity.
+**Reflection:** Christ is the eternal Word, fully divine and present from the beginning.
 
 ---
 
 ### 2. Colossians 1:15 (NIV)
 > "The Son is the image of the invisible God, the firstborn over all creation."
 
-**Reason:** This verse highlights Christ's divinity and His preeminence in creation.
+**Reason:** It highlights Christ's role as the visible representation of God and His preeminence.
 
-**Reflection:** In Christ, we see the fullness of God's character and authority.
-
----
-
-### 3. Hebrews 1:3 (NIV)
-> "The Son is the radiance of God’s glory and the exact representation of his being, sustaining all things by his powerful word."
-
-**Reason:** This verse underscores Christ's divine nature and His role in upholding the universe.
-
-**Reflection:** Christ perfectly reflects God's glory and sustains all creation.
+**Reflection:** In Christ, we see the fullness of God revealed to humanity.
 
 ---
 
-### 4. Philippians 2:5-7 (ESV)
-> "Have this mind among yourselves, which is yours in Christ Jesus, who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men."
-
-**Reason:** This passage emphasizes Christ’s humility and His incarnation as a servant.
-
-**Reflection:** Christ's humility is a model for selfless love and service.
-
----
-
-### 5. John 14:6 (NIV)
+### 3. John 14:6 (NIV)
 > "Jesus answered, 'I am the way and the truth and the life. No one comes to the Father except through me.'"
 
-**Reason:** This verse declares Christ as the exclusive path to God, encapsulating His role as Savior.
+**Reason:** This passage declares Christ as the exclusive path to God, embodying truth and life.
 
-**Reflection:** Christ is the sole way to spiritual truth and eternal life.
+**Reflection:** Christ is the sole gateway to true life and eternal fellowship with God.
+
+---
+
+### 4. Hebrews 1:3 (ESV)
+> "The Son is the radiance of God’s glory and the exact representation of his being, sustaining all things by his powerful word."
+
+**Reason:** Christ is described as the radiance of God's glory, demonstrating His divine identity and sustaining power.
+
+**Reflection:** The glory of God shines fully in the person of Christ, who upholds all creation.
+
+---
+
+### 5. Philippians 2:6-7 (NIV)
+> "Who, being in very nature God, did not consider equality with God something to be used to his own advantage; rather, he made himself nothing by taking the very nature of a servant, being made in human likeness."
+
+**Reason:** These verses portray the humility and incarnation of Christ, emphasizing His servanthood.
+
+**Reflection:** Christ's humility and service reveal His divine love and approachable human nature.
 
 ---
 
