@@ -1,0 +1,41 @@
+{
+  "query": "which bible verse talks about love",
+  "timestamp": "2025-08-08T23:30:03.690Z",
+  "results": [
+    {
+      "reference": "1 Corinthians 13:4-5",
+      "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs.",
+      "version": "NIV",
+      "reason": "This passage provides a comprehensive definition of love and its attributes.",
+      "reflection": "True love transforms our actions and attitudes towards others."
+    },
+    {
+      "reference": "1 John 4:8",
+      "text": "Whoever does not love does not know God, because God is love.",
+      "version": "NIV",
+      "reason": "This verse emphasizes the intrinsic nature of God as love itself.",
+      "reflection": "Our ability to love reflects our relationship with God."
+    },
+    {
+      "reference": "John 15:12",
+      "text": "My command is this: Love each other as I have loved you.",
+      "version": "NIV",
+      "reason": "Jesus commands His followers to love one another in the same way He loves them.",
+      "reflection": "Christ’s love is our model for loving others."
+    },
+    {
+      "reference": "Romans 13:10",
+      "text": "Love does no harm to a neighbor. Therefore love is the fulfillment of the law.",
+      "version": "NIV",
+      "reason": "This verse ties love to ethical behavior and fulfilling God's law.",
+      "reflection": "Genuine love leads us to act justly and kindly."
+    },
+    {
+      "reference": "1 Peter 4:8",
+      "text": "Above all, love each other deeply, because love covers over a multitude of sins.",
+      "version": "NIV",
+      "reason": "This verse highlights the power of love to forgive and heal.",
+      "reflection": "Deep love has the power to mend and restore relationships."
+    }
+  ]
+}
