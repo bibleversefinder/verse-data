@@ -5,48 +5,48 @@
 
 ## 📖 Matched Verses
 
-### 1. Micah 6:8 (NIV)
-> "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God."
-
-**Reason:** God calls us to love mercy as part of living a life pleasing to Him.
-
-**Reflection:** Loving mercy aligns us with God's desires and nurtures a humble spirit.
-
----
-
-### 2. Matthew 5:7 (NIV)
+### 1. Matthew 5:7 (NIV)
 > "Blessed are the merciful, for they will be shown mercy."
 
-**Reason:** This verse highlights the reciprocal nature of mercy, suggesting that those who show mercy will receive it in return.
+**Reason:** This verse from the Beatitudes highlights the reciprocal nature of mercy; showing mercy ensures we receive it in return.
 
-**Reflection:** When we extend mercy, we open our hearts to receive the same grace from others.
+**Reflection:** When we extend mercy, we align ourselves with God's promise of blessedness.
 
 ---
 
-### 3. James 2:13 (ESV)
+### 2. James 2:13 (ESV)
 > "For judgment is without mercy to one who has shown no mercy. Mercy triumphs over judgment."
 
-**Reason:** This verse emphasizes mercy's power to prevail over judgment, urging us to be compassionate.
+**Reason:** This verse emphasizes the importance of mercy in overcoming judgment, suggesting that mercy leads to a more compassionate outcome.
 
-**Reflection:** Choosing mercy over judgment reflects God's own character and brings peace.
-
----
-
-### 4. Luke 6:36 (ESV)
-> "Be merciful, even as your Father is merciful."
-
-**Reason:** This commandment encourages us to emulate God's merciful nature in our interactions.
-
-**Reflection:** Reflecting God's mercy in our lives draws us closer to His heart.
+**Reflection:** Our merciful actions can overshadow the harshness of judgment, fostering a forgiving spirit.
 
 ---
 
-### 5. Proverbs 21:21 (NIV)
-> "Whoever pursues righteousness and love finds life, prosperity, and honor."
+### 3. Micah 6:8 (NIV)
+> "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God."
 
-**Reason:** Mercy is an expression of love, and this pursuit brings fulfillment and honor.
+**Reason:** Here, mercy is presented as a fundamental requirement from God, highlighting its importance in our spiritual walk.
 
-**Reflection:** Living a life of mercy leads to true prosperity and life in abundance.
+**Reflection:** Mercy is not just a choice but a divine expectation for a righteous life.
+
+---
+
+### 4. Ephesians 2:4-5 (NIV)
+> "But because of his great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved."
+
+**Reason:** God's rich mercy in granting us life through Christ serves as the ultimate example for us to emulate in our interactions.
+
+**Reflection:** As recipients of God's mercy, we are called to mirror His compassion and grace to others.
+
+---
+
+### 5. Luke 6:36 (NIV)
+> "Be merciful, just as your Father is merciful."
+
+**Reason:** This commandment from Jesus instructs us to emulate the perfect mercy of God, reinforcing our spiritual duty to show mercy.
+
+**Reflection:** In showing mercy, we reflect the divine character of our Heavenly Father.
 
 ---
 
