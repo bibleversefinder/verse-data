@@ -1,41 +1,41 @@
 {
   "query": "Who is Christ ?",
-  "timestamp": "2025-08-09T06:35:05.896Z",
+  "timestamp": "2025-08-09T06:35:07.355Z",
   "results": [
     {
-      "reference": "John 1:14",
-      "text": "The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.",
+      "reference": "John 1:1",
+      "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
       "version": "NIV",
-      "reason": "This verse reveals the incarnation of Christ, emphasizing His divine nature and mission.",
-      "reflection": "Christ embodies God's grace and truth, dwelling among humanity."
+      "reason": "This verse identifies Christ as the Word, affirming His divine nature and eternal existence.",
+      "reflection": "Christ is the eternal Word, fully divine and present from the beginning."
     },
     {
       "reference": "Colossians 1:15",
       "text": "The Son is the image of the invisible God, the firstborn over all creation.",
       "version": "NIV",
-      "reason": "This verse highlights Christ's divinity and His preeminence in creation.",
-      "reflection": "In Christ, we see the fullness of God's character and authority."
-    },
-    {
-      "reference": "Hebrews 1:3",
-      "text": "The Son is the radiance of God’s glory and the exact representation of his being, sustaining all things by his powerful word.",
-      "version": "NIV",
-      "reason": "This verse underscores Christ's divine nature and His role in upholding the universe.",
-      "reflection": "Christ perfectly reflects God's glory and sustains all creation."
-    },
-    {
-      "reference": "Philippians 2:5-7",
-      "text": "Have this mind among yourselves, which is yours in Christ Jesus, who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men.",
-      "version": "ESV",
-      "reason": "This passage emphasizes Christ’s humility and His incarnation as a servant.",
-      "reflection": "Christ's humility is a model for selfless love and service."
+      "reason": "It highlights Christ's role as the visible representation of God and His preeminence.",
+      "reflection": "In Christ, we see the fullness of God revealed to humanity."
     },
     {
       "reference": "John 14:6",
       "text": "Jesus answered, 'I am the way and the truth and the life. No one comes to the Father except through me.'",
       "version": "NIV",
-      "reason": "This verse declares Christ as the exclusive path to God, encapsulating His role as Savior.",
-      "reflection": "Christ is the sole way to spiritual truth and eternal life."
+      "reason": "This passage declares Christ as the exclusive path to God, embodying truth and life.",
+      "reflection": "Christ is the sole gateway to true life and eternal fellowship with God."
+    },
+    {
+      "reference": "Hebrews 1:3",
+      "text": "The Son is the radiance of God’s glory and the exact representation of his being, sustaining all things by his powerful word.",
+      "version": "ESV",
+      "reason": "Christ is described as the radiance of God's glory, demonstrating His divine identity and sustaining power.",
+      "reflection": "The glory of God shines fully in the person of Christ, who upholds all creation."
+    },
+    {
+      "reference": "Philippians 2:6-7",
+      "text": "Who, being in very nature God, did not consider equality with God something to be used to his own advantage; rather, he made himself nothing by taking the very nature of a servant, being made in human likeness.",
+      "version": "NIV",
+      "reason": "These verses portray the humility and incarnation of Christ, emphasizing His servanthood.",
+      "reflection": "Christ's humility and service reveal His divine love and approachable human nature."
     }
   ]
 }
