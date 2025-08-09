@@ -1,0 +1,41 @@
+{
+  "query": "What are the bibles most random verses ?",
+  "timestamp": "2025-08-09T01:09:18.973Z",
+  "results": [
+    {
+      "reference": "Ecclesiastes 3:1",
+      "text": "There is a time for everything, and a season for every activity under the heavens.",
+      "version": "NIV",
+      "reason": "This verse highlights the unpredictability and randomness of life's events.",
+      "reflection": "Embrace the divine timing in all circumstances."
+    },
+    {
+      "reference": "Proverbs 21:31",
+      "text": "The horse is made ready for the day of battle, but victory rests with the Lord.",
+      "version": "NIV",
+      "reason": "The verse reflects on the randomness of human efforts versus divine outcomes.",
+      "reflection": "Trust that true success lies in God's hands."
+    },
+    {
+      "reference": "Job 39:9",
+      "text": "Will the wild ox consent to serve you? Will it stay by your manger at night?",
+      "version": "NIV",
+      "reason": "An unexpected question that illustrates the wildness of God's creation.",
+      "reflection": "Marvel at the untamed beauty of God's world."
+    },
+    {
+      "reference": "Matthew 10:30",
+      "text": "And even the very hairs of your head are all numbered.",
+      "version": "NIV",
+      "reason": "A seemingly random detail that shows God's intimate knowledge of us.",
+      "reflection": "Find comfort in God's detailed care for your life."
+    },
+    {
+      "reference": "Judges 3:31",
+      "text": "After Ehud came Shamgar son of Anath, who struck down six hundred Philistines with an oxgoad. He too saved Israel.",
+      "version": "NIV",
+      "reason": "An obscure and unexpected event showcasing God's deliverance in unusual ways.",
+      "reflection": "God can use the most unexpected people and methods for His purposes."
+    }
+  ]
+}
