@@ -1,0 +1,41 @@
+{
+  "query": "verse about killing",
+  "timestamp": "2025-08-09T02:35:23.908Z",
+  "results": [
+    {
+      "reference": "Exodus 20:13",
+      "text": "You shall not murder.",
+      "version": "NIV",
+      "reason": "This is a direct commandment from God given in the Ten Commandments, emphasizing the sanctity of life.",
+      "reflection": "Life is sacred and we are called to protect and honor it."
+    },
+    {
+      "reference": "Matthew 5:21-22",
+      "text": "\"You have heard that it was said to the people long ago, 'You shall not murder, and anyone who murders will be subject to judgment.' But I tell you that anyone who is angry with a brother or sister will be subject to judgment.\"",
+      "version": "NIV",
+      "reason": "Jesus expands the understanding of murder to include anger, highlighting the importance of the heart's intentions.",
+      "reflection": "Guard your heart against anger to prevent actions that harm others."
+    },
+    {
+      "reference": "Romans 13:9",
+      "text": "The commandments, 'You shall not commit adultery,' 'You shall not murder,' 'You shall not steal,' 'You shall not covet,' and whatever other command there may be, are summed up in this one command: 'Love your neighbor as yourself.'",
+      "version": "NIV",
+      "reason": "Paul reiterates the commandment against murder in the context of loving one's neighbor.",
+      "reflection": "True love for others prevents harm and promotes peace."
+    },
+    {
+      "reference": "Genesis 9:6",
+      "text": "Whoever sheds human blood, by humans shall their blood be shed; for in the image of God has God made mankind.",
+      "version": "NIV",
+      "reason": "This verse underscores the value of human life, created in God's image, and the serious consequences of taking it.",
+      "reflection": "Recognize the divine image in every person and uphold life."
+    },
+    {
+      "reference": "Proverbs 6:16-17",
+      "text": "There are six things the Lord hates, seven that are detestable to him: haughty eyes, a lying tongue, hands that shed innocent blood,",
+      "version": "NIV",
+      "reason": "Shedding innocent blood is listed among the actions detestable to the Lord, emphasizing His desire for justice and life.",
+      "reflection": "Seek to live justly, valuing and preserving life."
+    }
+  ]
+}
