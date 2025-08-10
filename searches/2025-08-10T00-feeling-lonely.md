@@ -5,48 +5,48 @@
 
 ## 📖 Matched Verses
 
-### 1. Isaiah 41:10 (NIV)
-> "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
-
-**Reason:** This verse reassures us of God's constant presence and support, countering feelings of loneliness.
-
-**Reflection:** In moments of loneliness, God's promise to be with us can be our greatest comfort.
-
----
-
-### 2. Psalm 23:4 (NIV)
-> "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."
-
-**Reason:** The psalm speaks of God's companionship even in the darkest times, alleviating loneliness.
-
-**Reflection:** God's presence transforms our darkest valleys into places of comfort and peace.
-
----
-
-### 3. Deuteronomy 31:6 (NIV)
+### 1. Deuteronomy 31:6 (NIV)
 > "Be strong and courageous. Do not be afraid or terrified because of them, for the LORD your God goes with you; he will never leave you nor forsake you."
 
-**Reason:** A reminder that God’s presence is guaranteed, dispelling the fear of being alone.
+**Reason:** This verse reassures that God is always present, eliminating the sense of loneliness.
 
-**Reflection:** The assurance of God's unfailing presence empowers us to face loneliness with courage.
+**Reflection:** Even in solitude, God's presence is constant and unwavering.
+
+---
+
+### 2. Psalm 68:6 (NIV)
+> "God sets the lonely in families, he leads out the prisoners with singing; but the rebellious live in a sun-scorched land."
+
+**Reason:** This verse highlights how God provides companionship and community for the lonely.
+
+**Reflection:** God’s love places us in a community, transforming loneliness into connection.
+
+---
+
+### 3. Isaiah 41:10 (ESV)
+> "Fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand."
+
+**Reason:** This verse emphasizes God's presence and support during times of loneliness.
+
+**Reflection:** In moments of isolation, God’s strength and support are ever-present.
 
 ---
 
 ### 4. Matthew 28:20 (NIV)
 > "And surely I am with you always, to the very end of the age."
 
-**Reason:** Jesus' promise to be with us always offers profound comfort in times of loneliness.
+**Reason:** Jesus promises His perpetual presence, providing comfort against loneliness.
 
-**Reflection:** Jesus' eternal presence is our source of enduring companionship.
+**Reflection:** Christ’s promise ensures He is always with us, dispelling loneliness.
 
 ---
 
-### 5. Psalm 68:6 (NIV)
-> "God sets the lonely in families, he leads out the prisoners with singing; but the rebellious live in a sun-scorched land."
+### 5. Psalm 23:4 (NIV)
+> "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."
 
-**Reason:** This verse speaks to God's ability to provide community and belonging for the lonely.
+**Reason:** This verse offers comfort in the assurance of God's guidance and presence.
 
-**Reflection:** God's love can create a sense of family and belonging even in solitude.
+**Reflection:** God’s comforting presence accompanies us through the darkest times.
 
 ---
 
