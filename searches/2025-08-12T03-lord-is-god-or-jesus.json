@@ -1,41 +1,41 @@
 {
   "query": "Lord is God or Jesus?",
-  "timestamp": "2025-08-12T03:37:53.729Z",
+  "timestamp": "2025-08-12T03:37:54.318Z",
   "results": [
     {
-      "reference": "Deuteronomy 4:35",
-      "text": "You were shown these things so that you might know that the Lord is God; besides him there is no other.",
+      "reference": "1 Kings 18:39",
+      "text": "When all the people saw this, they fell prostrate and cried, 'The Lord—he is God! The Lord—he is God!'",
       "version": "NIV",
-      "reason": "Affirms that the Lord is God.",
-      "reflection": "There is no one like our God; He alone is worthy of our worship and praise."
+      "reason": "Acknowledging the Lord as God.",
+      "reflection": "There is no one like our God; let us worship Him alone."
     },
     {
       "reference": "John 20:28",
       "text": "Thomas said to him, 'My Lord and my God!'",
       "version": "NIV",
-      "reason": "Acknowledges Jesus as Lord and God.",
-      "reflection": "Jesus is not only our Savior but also our Lord and God; let us surrender all to Him."
+      "reason": "Thomas recognizing Jesus as his Lord and God.",
+      "reflection": "Jesus is not just a man, but the divine Son of God."
+    },
+    {
+      "reference": "Isaiah 45:5",
+      "text": "I am the Lord, and there is no other; apart from me there is no God. I will strengthen you, though you have not acknowledged me.",
+      "version": "NIV",
+      "reason": "Affirming the Lord as the only God.",
+      "reflection": "God alone is worthy of our worship and trust."
+    },
+    {
+      "reference": "John 10:30",
+      "text": "I and the Father are one.",
+      "version": "ESV",
+      "reason": "Jesus declaring His oneness with the Father.",
+      "reflection": "In Jesus, we see the fullness of God's love and salvation."
     },
     {
       "reference": "1 Corinthians 8:6",
-      "text": "yet for us there is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ, through whom are all things and through whom we exist.",
+      "text": "Yet for us there is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ, through whom are all things and through whom we exist.",
       "version": "ESV",
-      "reason": "Distinguishes between God the Father and Jesus Christ as Lord.",
-      "reflection": "In the unity of the Godhead, we see the distinct roles of God the Father and the Lord Jesus Christ in creation and our existence."
-    },
-    {
-      "reference": "Psalm 86:10",
-      "text": "For you are great and do wondrous things; you alone are God.",
-      "version": "ESV",
-      "reason": "Acknowledges the greatness of God.",
-      "reflection": "God's greatness and uniqueness set Him apart as the only true God whom we worship and serve."
-    },
-    {
-      "reference": "Acts 2:36",
-      "text": "Let all the house of Israel therefore know for certain that God has made him both Lord and Christ, this Jesus whom you crucified.",
-      "version": "ESV",
-      "reason": "Declares Jesus as both Lord and Christ.",
-      "reflection": "Jesus, the crucified Savior, is exalted by God as Lord and Christ; let us submit to His lordship in our lives."
+      "reason": "Distinguishing God the Father and Jesus Christ as Lord.",
+      "reflection": "Both God the Father and Jesus Christ deserve our worship and obedience."
     }
   ]
 }
