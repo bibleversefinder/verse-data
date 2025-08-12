@@ -1,27 +1,41 @@
 {
   "query": "Bible verses about love",
-  "timestamp": "2025-08-12T03:20:37.120Z",
+  "timestamp": "2025-08-12T03:26:37.890Z",
   "results": [
     {
-      "reference": "Romans 8:6",
-      "text": "The mind of sinful man is death, but the mind controlled by the Spirit is life and peace;",
+      "reference": "1 Corinthians 13:4-7",
+      "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.",
       "version": "NIV",
-      "reason": "Related to your search for: Bible verses about love",
-      "reflection": "In God's presence, we find the peace that surpasses understanding."
+      "reason": "Describes the characteristics and actions of genuine love.",
+      "reflection": "True love is selfless, enduring, and seeks the well-being of others."
     },
     {
-      "reference": "John 20:19",
-      "text": "On the evening of that first day of the week, when the disciples were together, with the doors locked for fear of the Jews, Jesus came and stood among them and said, \"Peace be with you!\"",
+      "reference": "John 15:12",
+      "text": "My command is this: Love each other as I have loved you.",
       "version": "NIV",
-      "reason": "Related to your search for: Bible verses about love",
-      "reflection": "In God's presence, we find the peace that surpasses understanding."
+      "reason": "Jesus' direct command to love one another.",
+      "reflection": "We are called to love others sacrificially, just as Christ loved us."
     },
     {
-      "reference": "Matthew 19:13",
-      "text": "Then little children were brought to Jesus for him to place his hands on them and pray for them. But the disciples rebuked those who brought them.",
+      "reference": "1 John 4:7",
+      "text": "Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God.",
       "version": "NIV",
-      "reason": "Related to your search for: Bible verses about love",
-      "reflection": "True wisdom comes from seeking God's guidance in all things."
+      "reason": "Emphasizes that love originates from God and is a sign of knowing Him.",
+      "reflection": "Love is a divine gift that connects us to God and to one another."
+    },
+    {
+      "reference": "Ephesians 4:2-3",
+      "text": "Be completely humble and gentle; be patient, bearing with one another in love. Make every effort to keep the unity of the Spirit through the bond of peace.",
+      "version": "NIV",
+      "reason": "Encourages humility, patience, and unity in love.",
+      "reflection": "True love fosters harmony, understanding, and peace among believers."
+    },
+    {
+      "reference": "1 Peter 4:8",
+      "text": "Above all, love each other deeply, because love covers over a multitude of sins.",
+      "version": "NIV",
+      "reason": "Highlights the power of love to forgive and reconcile.",
+      "reflection": "Love has the ability to heal relationships and bring restoration."
     }
   ]
 }
