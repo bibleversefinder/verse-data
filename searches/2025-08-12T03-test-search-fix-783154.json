@@ -1,0 +1,41 @@
+{
+  "query": "test search fix",
+  "timestamp": "2025-08-12T03:53:03.154Z",
+  "results": [
+    {
+      "reference": "Psalm 26:2",
+      "text": "Test me, Lord, and try me, examine my heart and my mind;",
+      "version": "NIV",
+      "reason": "The verse talks about being tested and examined by the Lord.",
+      "reflection": "Allowing God to test and examine us helps refine our hearts and minds."
+    },
+    {
+      "reference": "Psalm 139:23-24",
+      "text": "Search me, God, and know my heart; test me and know my anxious thoughts. See if there is any offensive way in me, and lead me in the way everlasting.",
+      "version": "NIV",
+      "reason": "The psalmist asks God to search and test his heart and thoughts.",
+      "reflection": "Inviting God to search our hearts leads to self-awareness and guidance towards His ways."
+    },
+    {
+      "reference": "Proverbs 17:3",
+      "text": "The crucible for silver and the furnace for gold, but the Lord tests the heart.",
+      "version": "NIV",
+      "reason": "The verse highlights that the Lord tests the heart.",
+      "reflection": "God's tests refine our hearts just as fire purifies precious metals."
+    },
+    {
+      "reference": "1 Peter 1:7",
+      "text": "These have come so that the proven genuineness of your faith—of greater worth than gold, which perishes even though refined by fire—may result in praise, glory and honor when Jesus Christ is revealed.",
+      "version": "NIV",
+      "reason": "The verse discusses the testing of faith through trials.",
+      "reflection": "Trials refine our faith, revealing its genuineness and bringing glory to God."
+    },
+    {
+      "reference": "Jeremiah 17:10",
+      "text": "I the Lord search the heart and examine the mind, to reward each person according to their conduct, according to what their deeds deserve.",
+      "version": "NIV",
+      "reason": "God searches the heart and examines the mind to reward accordingly.",
+      "reflection": "God's examination of our hearts is just, leading to rewards based on our deeds."
+    }
+  ]
+}
