@@ -5,48 +5,48 @@
 
 ## 📖 Matched Verses
 
-### 1. Deuteronomy 4:35 (NIV)
-> "You were shown these things so that you might know that the Lord is God; besides him there is no other."
+### 1. 1 Kings 18:39 (NIV)
+> "When all the people saw this, they fell prostrate and cried, 'The Lord—he is God! The Lord—he is God!'"
 
-**Reason:** Affirms that the Lord is God.
+**Reason:** Acknowledging the Lord as God.
 
-**Reflection:** There is no one like our God; He alone is worthy of our worship and praise.
+**Reflection:** There is no one like our God; let us worship Him alone.
 
 ---
 
 ### 2. John 20:28 (NIV)
 > "Thomas said to him, 'My Lord and my God!'"
 
-**Reason:** Acknowledges Jesus as Lord and God.
+**Reason:** Thomas recognizing Jesus as his Lord and God.
 
-**Reflection:** Jesus is not only our Savior but also our Lord and God; let us surrender all to Him.
-
----
-
-### 3. 1 Corinthians 8:6 (ESV)
-> "yet for us there is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ, through whom are all things and through whom we exist."
-
-**Reason:** Distinguishes between God the Father and Jesus Christ as Lord.
-
-**Reflection:** In the unity of the Godhead, we see the distinct roles of God the Father and the Lord Jesus Christ in creation and our existence.
+**Reflection:** Jesus is not just a man, but the divine Son of God.
 
 ---
 
-### 4. Psalm 86:10 (ESV)
-> "For you are great and do wondrous things; you alone are God."
+### 3. Isaiah 45:5 (NIV)
+> "I am the Lord, and there is no other; apart from me there is no God. I will strengthen you, though you have not acknowledged me."
 
-**Reason:** Acknowledges the greatness of God.
+**Reason:** Affirming the Lord as the only God.
 
-**Reflection:** God's greatness and uniqueness set Him apart as the only true God whom we worship and serve.
+**Reflection:** God alone is worthy of our worship and trust.
 
 ---
 
-### 5. Acts 2:36 (ESV)
-> "Let all the house of Israel therefore know for certain that God has made him both Lord and Christ, this Jesus whom you crucified."
+### 4. John 10:30 (ESV)
+> "I and the Father are one."
 
-**Reason:** Declares Jesus as both Lord and Christ.
+**Reason:** Jesus declaring His oneness with the Father.
 
-**Reflection:** Jesus, the crucified Savior, is exalted by God as Lord and Christ; let us submit to His lordship in our lives.
+**Reflection:** In Jesus, we see the fullness of God's love and salvation.
+
+---
+
+### 5. 1 Corinthians 8:6 (ESV)
+> "Yet for us there is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ, through whom are all things and through whom we exist."
+
+**Reason:** Distinguishing God the Father and Jesus Christ as Lord.
+
+**Reflection:** Both God the Father and Jesus Christ deserve our worship and obedience.
 
 ---
 
