@@ -1,0 +1,41 @@
+{
+  "query": "Lord is God or Jesus?",
+  "timestamp": "2025-08-12T03:37:53.729Z",
+  "results": [
+    {
+      "reference": "Deuteronomy 4:35",
+      "text": "You were shown these things so that you might know that the Lord is God; besides him there is no other.",
+      "version": "NIV",
+      "reason": "Affirms that the Lord is God.",
+      "reflection": "There is no one like our God; He alone is worthy of our worship and praise."
+    },
+    {
+      "reference": "John 20:28",
+      "text": "Thomas said to him, 'My Lord and my God!'",
+      "version": "NIV",
+      "reason": "Acknowledges Jesus as Lord and God.",
+      "reflection": "Jesus is not only our Savior but also our Lord and God; let us surrender all to Him."
+    },
+    {
+      "reference": "1 Corinthians 8:6",
+      "text": "yet for us there is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ, through whom are all things and through whom we exist.",
+      "version": "ESV",
+      "reason": "Distinguishes between God the Father and Jesus Christ as Lord.",
+      "reflection": "In the unity of the Godhead, we see the distinct roles of God the Father and the Lord Jesus Christ in creation and our existence."
+    },
+    {
+      "reference": "Psalm 86:10",
+      "text": "For you are great and do wondrous things; you alone are God.",
+      "version": "ESV",
+      "reason": "Acknowledges the greatness of God.",
+      "reflection": "God's greatness and uniqueness set Him apart as the only true God whom we worship and serve."
+    },
+    {
+      "reference": "Acts 2:36",
+      "text": "Let all the house of Israel therefore know for certain that God has made him both Lord and Christ, this Jesus whom you crucified.",
+      "version": "ESV",
+      "reason": "Declares Jesus as both Lord and Christ.",
+      "reflection": "Jesus, the crucified Savior, is exalted by God as Lord and Christ; let us submit to His lordship in our lives."
+    }
+  ]
+}
