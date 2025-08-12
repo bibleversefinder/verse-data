@@ -1,41 +1,41 @@
 {
   "query": "Bible verses about forgiveness",
-  "timestamp": "2025-08-12T03:53:49.398Z",
+  "timestamp": "2025-08-12T03:53:52.310Z",
   "results": [
-    {
-      "reference": "Matthew 6:14",
-      "text": "For if you forgive other people when they sin against you, your heavenly Father will also forgive you.",
-      "version": "NIV",
-      "reason": "Emphasizes the importance of forgiveness in our relationship with God.",
-      "reflection": "Forgiving others allows us to receive God's forgiveness."
-    },
     {
       "reference": "Ephesians 4:32",
       "text": "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you.",
       "version": "ESV",
-      "reason": "Encourages believers to forgive others as they have been forgiven by God.",
-      "reflection": "God's forgiveness should motivate us to forgive others."
+      "reason": "Emphasizes the importance of forgiveness in imitating God's forgiveness.",
+      "reflection": "Forgiveness is a reflection of God's grace towards us."
     },
     {
       "reference": "Colossians 3:13",
       "text": "Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you.",
       "version": "NIV",
-      "reason": "Reminds us to forgive others as we have been forgiven by the Lord.",
-      "reflection": "Reflect God's forgiveness by extending it to others."
+      "reason": "Encourages believers to forgive others as they have been forgiven by the Lord.",
+      "reflection": "Forgiveness is a response to the forgiveness we have received from God."
     },
     {
-      "reference": "Luke 6:37",
-      "text": "Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive, and you will be forgiven.",
+      "reference": "Matthew 6:14-15",
+      "text": "For if you forgive other people when they sin against you, your heavenly Father will also forgive you. But if you do not forgive others their sins, your Father will not forgive your sins.",
       "version": "NIV",
-      "reason": "Teaches the principle of receiving forgiveness by extending it to others.",
-      "reflection": "Our forgiveness of others mirrors the forgiveness we receive from God."
+      "reason": "Teaches the connection between our forgiveness of others and receiving forgiveness from God.",
+      "reflection": "Forgiveness is essential for experiencing God's forgiveness in our lives."
     },
     {
-      "reference": "Mark 11:25",
-      "text": "And when you stand praying, if you hold anything against anyone, forgive them, so that your Father in heaven may forgive you your sins.",
+      "reference": "Luke 17:3-4",
+      "text": "If your brother or sister sins against you, rebuke them; and if they repent, forgive them. Even if they sin against you seven times in a day and seven times come back to you saying 'I repent,' you must forgive them.",
       "version": "NIV",
-      "reason": "Connects forgiveness of others to receiving forgiveness from God.",
-      "reflection": "Forgiveness is key to maintaining a close relationship with God."
+      "reason": "Highlights the importance of continual forgiveness and repentance.",
+      "reflection": "Forgiveness requires a heart willing to forgive repeatedly as God forgives us."
+    },
+    {
+      "reference": "1 John 1:9",
+      "text": "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.",
+      "version": "ESV",
+      "reason": "Reminds us of God's faithfulness to forgive when we confess our sins.",
+      "reflection": "Confession opens the door to God's forgiveness and cleansing in our lives."
     }
   ]
 }
