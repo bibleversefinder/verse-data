@@ -1,41 +1,41 @@
 {
   "query": "Bible verses about love",
-  "timestamp": "2025-08-12T03:26:37.890Z",
+  "timestamp": "2025-08-12T03:26:39.926Z",
   "results": [
     {
       "reference": "1 Corinthians 13:4-7",
       "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.",
       "version": "NIV",
-      "reason": "Describes the characteristics and actions of genuine love.",
-      "reflection": "True love is selfless, enduring, and seeks the well-being of others."
+      "reason": "Describes the characteristics of true love.",
+      "reflection": "True love is selfless, patient, and enduring."
     },
     {
-      "reference": "John 15:12",
-      "text": "My command is this: Love each other as I have loved you.",
+      "reference": "John 3:16",
+      "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
       "version": "NIV",
-      "reason": "Jesus' direct command to love one another.",
-      "reflection": "We are called to love others sacrificially, just as Christ loved us."
+      "reason": "God's ultimate act of love towards humanity.",
+      "reflection": "God's love is sacrificial and offers eternal life."
     },
     {
-      "reference": "1 John 4:7",
-      "text": "Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God.",
-      "version": "NIV",
-      "reason": "Emphasizes that love originates from God and is a sign of knowing Him.",
-      "reflection": "Love is a divine gift that connects us to God and to one another."
+      "reference": "1 John 4:19",
+      "text": "We love because he first loved us.",
+      "version": "ESV",
+      "reason": "Our capacity to love is rooted in God's love for us.",
+      "reflection": "God's love empowers us to love others."
     },
     {
       "reference": "Ephesians 4:2-3",
       "text": "Be completely humble and gentle; be patient, bearing with one another in love. Make every effort to keep the unity of the Spirit through the bond of peace.",
       "version": "NIV",
-      "reason": "Encourages humility, patience, and unity in love.",
-      "reflection": "True love fosters harmony, understanding, and peace among believers."
+      "reason": "Emphasizes the importance of love in maintaining unity.",
+      "reflection": "Love fosters harmony and peace among believers."
     },
     {
       "reference": "1 Peter 4:8",
       "text": "Above all, love each other deeply, because love covers over a multitude of sins.",
       "version": "NIV",
-      "reason": "Highlights the power of love to forgive and reconcile.",
-      "reflection": "Love has the ability to heal relationships and bring restoration."
+      "reason": "Highlights the power of love to forgive and restore.",
+      "reflection": "Love has the ability to mend broken relationships and offer forgiveness."
     }
   ]
 }
