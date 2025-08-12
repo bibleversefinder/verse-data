@@ -1,0 +1,41 @@
+{
+  "query": "love test",
+  "timestamp": "2025-08-12T03:51:00.339Z",
+  "results": [
+    {
+      "reference": "1 John 4:18",
+      "text": "There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love.",
+      "version": "NIV",
+      "reason": "Love overcomes fear and is a test of true love.",
+      "reflection": "True love casts out fear and brings security."
+    },
+    {
+      "reference": "1 Corinthians 13:4-7",
+      "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.",
+      "version": "NIV",
+      "reason": "Describes the characteristics of love, which can be tested.",
+      "reflection": "True love is demonstrated through patience, kindness, and trust."
+    },
+    {
+      "reference": "1 John 4:7",
+      "text": "Beloved, let us love one another, for love is from God, and whoever loves has been born of God and knows God.",
+      "version": "ESV",
+      "reason": "Love as a test of being born of God.",
+      "reflection": "Our ability to love others is evidence of our relationship with God."
+    },
+    {
+      "reference": "John 13:35",
+      "text": "By this everyone will know that you are my disciples, if you love one another.",
+      "version": "NIV",
+      "reason": "Love as a defining characteristic of discipleship.",
+      "reflection": "Our love for one another reflects our discipleship to Christ."
+    },
+    {
+      "reference": "Romans 5:8",
+      "text": "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.",
+      "version": "NIV",
+      "reason": "The ultimate test of love demonstrated by God through Christ.",
+      "reflection": "God's love is unconditional and sacrificial, even when we are undeserving."
+    }
+  ]
+}
