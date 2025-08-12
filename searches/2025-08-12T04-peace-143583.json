@@ -1,0 +1,41 @@
+{
+  "query": "peace",
+  "timestamp": "2025-08-12T04:15:43.583Z",
+  "results": [
+    {
+      "reference": "Philippians 4:6-7",
+      "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+      "version": "NIV",
+      "reason": "God's peace that surpasses understanding.",
+      "reflection": "Through prayer and thanksgiving, God's peace will guard your heart and mind."
+    },
+    {
+      "reference": "John 14:27",
+      "text": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
+      "version": "NIV",
+      "reason": "Jesus' gift of peace to his disciples.",
+      "reflection": "Jesus offers a unique and lasting peace that overcomes fear and trouble."
+    },
+    {
+      "reference": "Isaiah 26:3",
+      "text": "You keep him in perfect peace whose mind is stayed on you, because he trusts in you.",
+      "version": "ESV",
+      "reason": "Perfect peace through trust in God.",
+      "reflection": "Trusting in God leads to a state of perfect peace that comes from Him."
+    },
+    {
+      "reference": "Colossians 3:15",
+      "text": "And let the peace of Christ rule in your hearts, to which indeed you were called in one body. And be thankful.",
+      "version": "ESV",
+      "reason": "Peace of Christ as a ruler in our hearts.",
+      "reflection": "Allowing the peace of Christ to rule in our hearts brings unity and gratitude."
+    },
+    {
+      "reference": "Matthew 5:9",
+      "text": "Blessed are the peacemakers, for they shall be called sons of God.",
+      "version": "ESV",
+      "reason": "Blessing for those who promote peace.",
+      "reflection": "Being a peacemaker reflects our identity as children of God."
+    }
+  ]
+}
