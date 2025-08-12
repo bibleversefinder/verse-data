@@ -5,48 +5,48 @@
 
 ## 📖 Matched Verses
 
-### 1. Matthew 8:26 (NIV)
+### 1. Isaiah 41:10 (NIV)
+> "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
+
+**Reason:** Encouragement to trust God's strength in times of weakness.
+
+**Reflection:** God promises to strengthen and uphold us when we trust in Him, even in our moments of doubt.
+
+---
+
+### 2. Psalm 9:10 (NIV)
+> "Those who know your name trust in you, for you, Lord, have never forsaken those who seek you."
+
+**Reason:** Assurance that God is faithful to those who trust in Him.
+
+**Reflection:** God is always faithful and will never abandon those who place their trust in Him.
+
+---
+
+### 3. Hebrews 11:6 (NIV)
+> "And without faith it is impossible to please God, because anyone who comes to him must believe that he exists and that he rewards those who earnestly seek him."
+
+**Reason:** Highlighting the importance of faith in pleasing God.
+
+**Reflection:** True trust in God requires faith, believing that He exists and rewards those who seek Him diligently.
+
+---
+
+### 4. Matthew 8:26 (NIV)
 > "He replied, 'You of little faith, why are you so afraid?' Then he got up and rebuked the winds and the waves, and it was completely calm."
 
-**Reason:** Jesus addressing the disciples' lack of faith during a storm.
+**Reason:** Jesus' response to the disciples' lack of faith during a storm.
 
-**Reflection:** When our faith is weak, we tend to be overcome by fear, but Jesus can calm any storm in our lives.
-
----
-
-### 2. Matthew 14:31 (NIV)
-> "Immediately Jesus reached out his hand and caught him. 'You of little faith,' he said, 'why did you doubt?'"
-
-**Reason:** Jesus rescuing Peter when his faith wavered while walking on water.
-
-**Reflection:** Even in moments of doubt, Jesus is always there to rescue us when we call out to Him.
+**Reflection:** Even in our moments of weak faith and fear, Jesus has the power to calm the storms in our lives.
 
 ---
 
-### 3. Mark 4:40 (NIV)
-> "He said to his disciples, 'Why are you so afraid? Do you still have no faith?'"
+### 5. Mark 9:24 (NIV)
+> "Immediately the boy’s father exclaimed, 'I do believe; help me overcome my unbelief!'"
 
-**Reason:** Jesus questioning the disciples' fear and lack of faith during a storm.
+**Reason:** A heartfelt plea for God's help in strengthening faith.
 
-**Reflection:** Fear and faith cannot coexist; choose to trust in Jesus even in the midst of life's storms.
-
----
-
-### 4. Romans 14:1 (ESV)
-> "As for the one who is weak in faith, welcome him, but not to quarrel over opinions."
-
-**Reason:** Encouragement to accept those with weak faith without judgment or argument.
-
-**Reflection:** We should show love and acceptance to those whose faith is struggling, just as Christ welcomes us.
-
----
-
-### 5. James 1:6 (ESV)
-> "But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind."
-
-**Reason:** Emphasis on the importance of asking God in faith without doubt.
-
-**Reflection:** Doubt can lead to instability in our spiritual walk; trusting God wholeheartedly brings peace and direction.
+**Reflection:** It's okay to acknowledge our struggles with faith and ask God to help us grow stronger in trusting Him.
 
 ---
 
