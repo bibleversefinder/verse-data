@@ -1,41 +1,41 @@
 {
   "query": "test search",
-  "timestamp": "2025-08-12T03:01:02.964Z",
+  "timestamp": "2025-08-12T03:39:28.281Z",
   "results": [
     {
-      "reference": "John 4:14",
-      "text": "but whoever drinks the water I give him will never thirst. Indeed, the water I give him will become in him a spring of water welling up to eternal life.\"",
+      "reference": "1 Peter 1:7",
+      "text": "These have come so that the proven genuineness of your faith—of greater worth than gold, which perishes even though refined by fire—may result in praise, glory and honor when Jesus Christ is revealed.",
       "version": "NIV",
-      "reason": "Offers encouragement and future perspective",
-      "reflection": "Our hope is anchored in God's eternal promises and faithfulness."
+      "reason": "Testing of faith",
+      "reflection": "Through tests and trials, our faith is refined and strengthened, bringing glory to God."
     },
     {
-      "reference": "Psalms 52:9",
-      "text": "I will praise you forever for what you have done; in your name I will hope, for your name is good. I will praise you in the presence of your saints.",
+      "reference": "James 1:3",
+      "text": "because you know that the testing of your faith produces perseverance.",
       "version": "NIV",
-      "reason": "Offers encouragement and future perspective",
-      "reflection": "Our hope is anchored in God's eternal promises and faithfulness."
+      "reason": "Testing leading to perseverance",
+      "reflection": "Tests in our faith are opportunities for growth and building endurance."
     },
     {
-      "reference": "Romans 5:21",
-      "text": "so that, just as sin reigned in death, so also grace might reign through righteousness to bring eternal life through Jesus Christ our Lord.",
+      "reference": "Proverbs 17:3",
+      "text": "The crucible for silver and the furnace for gold, but the Lord tests the heart.",
       "version": "NIV",
-      "reason": "Offers encouragement and future perspective",
-      "reflection": "Our hope is anchored in God's eternal promises and faithfulness."
+      "reason": "God tests the heart",
+      "reflection": "God examines our hearts to refine and purify us for His purposes."
     },
     {
-      "reference": "Romans 9:8",
-      "text": "In other words, it is not the natural children who are God's children, but it is the children of the promise who are regarded as Abraham's offspring.",
+      "reference": "Psalm 26:2",
+      "text": "Test me, Lord, and try me, examine my heart and my mind;",
       "version": "NIV",
-      "reason": "Offers encouragement and future perspective",
-      "reflection": "Our hope is anchored in God's eternal promises and faithfulness."
+      "reason": "Seeking God's examination",
+      "reflection": "Asking God to search our hearts and minds leads to growth and transformation."
     },
     {
-      "reference": "Romans 4:13",
-      "text": "It was not through law that Abraham and his offspring received the promise that he would be heir of the world, but through the righteousness that comes by faith.",
+      "reference": "1 Corinthians 3:13",
+      "text": "their work will be shown for what it is, because the Day will bring it to light. It will be revealed with fire, and the fire will test the quality of each person’s work.",
       "version": "NIV",
-      "reason": "Offers encouragement and future perspective",
-      "reflection": "Our hope is anchored in God's eternal promises and faithfulness."
+      "reason": "Testing the quality of work",
+      "reflection": "Our actions and deeds will be tested by fire, revealing the true quality of our work."
     }
   ]
 }
