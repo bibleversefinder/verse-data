@@ -10,43 +10,43 @@
 
 **Reason:** Emphasizes the unknown timing of Jesus' return.
 
-**Reflection:** Our focus should be on being ready for His return rather than speculating about the timing.
+**Reflection:** Trust in God's timing, for He alone knows the appointed hour.
 
 ---
 
-### 2. Matthew 24:42 (NIV)
-> "Therefore keep watch, because you do not know on what day your Lord will come."
+### 2. Matthew 24:44 (NIV)
+> "So you also must be ready, because the Son of Man will come at an hour when you do not expect him."
 
-**Reason:** Encourages readiness and vigilance for Jesus' return.
+**Reason:** Encourages believers to be prepared for Jesus' return at any moment.
 
-**Reflection:** Living in constant awareness of His imminent return helps us stay faithful and prepared.
+**Reflection:** Live each day in readiness and anticipation of Christ's coming.
 
 ---
 
 ### 3. 1 Thessalonians 5:2 (NIV)
 > "For you know very well that the day of the Lord will come like a thief in the night."
 
-**Reason:** Compares Jesus' return to a thief coming unexpectedly.
+**Reason:** Compares Jesus' return to a thief in the night, emphasizing surprise.
 
-**Reflection:** Just as we wouldn't want a thief to catch us off guard, let's be spiritually watchful for Christ's return.
+**Reflection:** Stay vigilant and spiritually prepared for the unexpected return of Christ.
 
 ---
 
 ### 4. Revelation 22:20 (NIV)
 > "He who testifies to these things says, 'Yes, I am coming soon.' Amen. Come, Lord Jesus."
 
-**Reason:** Affirms the promise of Jesus' imminent return.
+**Reason:** Expresses the anticipation and longing for Jesus' imminent return.
 
-**Reflection:** Our response should be a heartfelt desire for His return, eagerly awaiting His coming.
+**Reflection:** Echo the cry for Jesus' swift return and eagerly await His coming.
 
 ---
 
 ### 5. 2 Peter 3:10 (NIV)
 > "But the day of the Lord will come like a thief. The heavens will disappear with a roar; the elements will be destroyed by fire, and the earth and everything done in it will be laid bare."
 
-**Reason:** Describes the dramatic events surrounding Jesus' return.
+**Reason:** Portrays the dramatic and sudden nature of Jesus' return.
 
-**Reflection:** Let this reality motivate us to live holy and godly lives, knowing the temporary nature of this world.
+**Reflection:** Be prepared for the grand and transformative event of Christ's return.
 
 ---
 
