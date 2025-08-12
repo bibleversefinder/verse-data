@@ -8,45 +8,45 @@
 ### 1. Philippians 4:6 (NIV)
 > "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God."
 
-**Reason:** Encourages believers to replace anxiety with prayer and thanksgiving.
+**Reason:** Encourages reliance on prayer and trust in God to overcome anxiety.
 
-**Reflection:** Prayer and gratitude can calm our anxious hearts.
-
----
-
-### 2. Matthew 6:34 (NIV)
-> "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."
-
-**Reason:** Reminds us to focus on the present rather than being consumed by future worries.
-
-**Reflection:** Trust God with your future and live in the present moment.
+**Reflection:** Instead of worrying, bring your concerns to God in prayer.
 
 ---
 
-### 3. 1 Peter 5:7 (NIV)
+### 2. 1 Peter 5:7 (NIV)
 > "Cast all your anxiety on him because he cares for you."
 
-**Reason:** Encourages surrendering our worries to God who cares for us.
+**Reason:** Emphasizes the care and concern God has for His people, inviting them to release their anxieties to Him.
 
-**Reflection:** God is willing to carry our burdens if we are willing to let go.
-
----
-
-### 4. Psalm 55:22 (NIV)
-> "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken."
-
-**Reason:** Assures believers that God will sustain and support them through their anxieties.
-
-**Reflection:** God's promise to sustain us brings comfort in times of worry.
+**Reflection:** God's care for us is a reason to trust Him with our worries.
 
 ---
 
-### 5. Isaiah 41:10 (NIV)
-> "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
+### 3. Matthew 6:34 (ESV)
+> "Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble."
 
-**Reason:** God's promise of strength and support in times of fear and anxiety.
+**Reason:** Reminds us to focus on the present and trust God for each day's needs.
 
-**Reflection:** God's presence and support can dispel our fears and anxieties.
+**Reflection:** Worrying about the future robs us of the joy of today.
+
+---
+
+### 4. Psalm 94:19 (NIV)
+> "When anxiety was great within me, your consolation brought me joy."
+
+**Reason:** Acknowledges that God's comfort and presence can bring joy in the midst of anxiety.
+
+**Reflection:** Finding joy in God's presence can calm our anxious hearts.
+
+---
+
+### 5. Isaiah 41:10 (ESV)
+> "Fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand."
+
+**Reason:** Assures believers of God's presence, strength, and help in times of fear and anxiety.
+
+**Reflection:** God's promises of strength and support can replace our fears with faith.
 
 ---
 
