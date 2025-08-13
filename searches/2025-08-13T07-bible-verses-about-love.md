@@ -10,43 +10,43 @@
 
 **Reason:** Describes the characteristics and actions of genuine love.
 
-**Reflection:** True love is patient, kind, and selfless, always seeking the best for others.
+**Reflection:** True love is selfless, patient, and enduring.
 
 ---
 
-### 2. John 15:13 (NIV)
-> "Greater love has no one than this: to lay down one’s life for one’s friends."
+### 2. John 15:12 (NIV)
+> "My command is this: Love each other as I have loved you."
 
-**Reason:** Demonstrates the ultimate act of love through self-sacrifice.
+**Reason:** Jesus instructs us to love one another as He loves us.
 
-**Reflection:** Jesus exemplified the highest form of love by laying down His life for us.
+**Reflection:** Our love for others should mirror the sacrificial love of Christ.
 
 ---
 
-### 3. 1 John 4:19 (ESV)
-> "We love because he first loved us."
+### 3. 1 John 4:7 (NIV)
+> "Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God."
 
-**Reason:** Highlights the source of our ability to love.
+**Reason:** Love originates from God, and loving others is a sign of knowing God.
 
-**Reflection:** Our capacity to love is rooted in God's love for us; we love because He loved us first.
+**Reflection:** Love is a reflection of our relationship with God.
 
 ---
 
 ### 4. Ephesians 4:2 (NIV)
 > "Be completely humble and gentle; be patient, bearing with one another in love."
 
-**Reason:** Encourages humility, gentleness, and patience in loving relationships.
+**Reason:** Encourages humility, gentleness, patience, and tolerance in love.
 
-**Reflection:** True love requires humility, gentleness, and patience in dealing with others.
+**Reflection:** Love requires humility, gentleness, and patience in relationships.
 
 ---
 
 ### 5. 1 Peter 4:8 (NIV)
 > "Above all, love each other deeply, because love covers over a multitude of sins."
 
-**Reason:** Emphasizes the power of love to forgive and reconcile.
+**Reason:** Highlights the power of love to forgive and overlook faults.
 
-**Reflection:** Love has the ability to overlook faults and bring healing and restoration in relationships.
+**Reflection:** Love has the ability to forgive and heal relationships.
 
 ---
 
