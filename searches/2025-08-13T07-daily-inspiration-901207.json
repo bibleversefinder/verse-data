@@ -1,0 +1,41 @@
+{
+  "query": "daily inspiration",
+  "timestamp": "2025-08-13T07:41:41.207Z",
+  "results": [
+    {
+      "reference": "Psalm 118:24",
+      "text": "This is the day that the Lord has made; let us rejoice and be glad in it.",
+      "version": "ESV",
+      "reason": "Encouragement to find joy and gratitude in each new day.",
+      "reflection": "Every day is a gift from God, let us choose to rejoice in it."
+    },
+    {
+      "reference": "Lamentations 3:22-23",
+      "text": "The steadfast love of the Lord never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness.",
+      "version": "ESV",
+      "reason": "Reminder of God's faithfulness and fresh mercies each day.",
+      "reflection": "God's love and faithfulness are renewed every morning, giving us hope and inspiration."
+    },
+    {
+      "reference": "Matthew 6:34",
+      "text": "Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble.",
+      "version": "NIV",
+      "reason": "Encouragement to focus on the present and trust God for each day.",
+      "reflection": "Instead of worrying about the future, trust God to provide for your daily needs."
+    },
+    {
+      "reference": "Proverbs 3:5-6",
+      "text": "Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.",
+      "version": "ESV",
+      "reason": "Encouragement to rely on God's guidance daily.",
+      "reflection": "When we trust God completely and seek His direction, He will lead us on the right path."
+    },
+    {
+      "reference": "2 Corinthians 4:16",
+      "text": "So we do not lose heart. Though our outer self is wasting away, our inner self is being renewed day by day.",
+      "version": "NIV",
+      "reason": "Assurance of spiritual renewal and strength each day.",
+      "reflection": "Even when we face challenges, God renews our inner strength daily to keep us going."
+    }
+  ]
+}
