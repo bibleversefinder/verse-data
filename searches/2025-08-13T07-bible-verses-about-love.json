@@ -1,41 +1,41 @@
 {
   "query": "Bible verses about love",
-  "timestamp": "2025-08-13T07:04:26.216Z",
+  "timestamp": "2025-08-13T07:04:29.436Z",
   "results": [
     {
       "reference": "1 Corinthians 13:4-7",
       "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.",
       "version": "NIV",
       "reason": "Describes the characteristics and actions of genuine love.",
-      "reflection": "True love is patient, kind, and selfless, always seeking the best for others."
+      "reflection": "True love is selfless, patient, and enduring."
     },
     {
-      "reference": "John 15:13",
-      "text": "Greater love has no one than this: to lay down one’s life for one’s friends.",
+      "reference": "John 15:12",
+      "text": "My command is this: Love each other as I have loved you.",
       "version": "NIV",
-      "reason": "Demonstrates the ultimate act of love through self-sacrifice.",
-      "reflection": "Jesus exemplified the highest form of love by laying down His life for us."
+      "reason": "Jesus instructs us to love one another as He loves us.",
+      "reflection": "Our love for others should mirror the sacrificial love of Christ."
     },
     {
-      "reference": "1 John 4:19",
-      "text": "We love because he first loved us.",
-      "version": "ESV",
-      "reason": "Highlights the source of our ability to love.",
-      "reflection": "Our capacity to love is rooted in God's love for us; we love because He loved us first."
+      "reference": "1 John 4:7",
+      "text": "Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God.",
+      "version": "NIV",
+      "reason": "Love originates from God, and loving others is a sign of knowing God.",
+      "reflection": "Love is a reflection of our relationship with God."
     },
     {
       "reference": "Ephesians 4:2",
       "text": "Be completely humble and gentle; be patient, bearing with one another in love.",
       "version": "NIV",
-      "reason": "Encourages humility, gentleness, and patience in loving relationships.",
-      "reflection": "True love requires humility, gentleness, and patience in dealing with others."
+      "reason": "Encourages humility, gentleness, patience, and tolerance in love.",
+      "reflection": "Love requires humility, gentleness, and patience in relationships."
     },
     {
       "reference": "1 Peter 4:8",
       "text": "Above all, love each other deeply, because love covers over a multitude of sins.",
       "version": "NIV",
-      "reason": "Emphasizes the power of love to forgive and reconcile.",
-      "reflection": "Love has the ability to overlook faults and bring healing and restoration in relationships."
+      "reason": "Highlights the power of love to forgive and overlook faults.",
+      "reflection": "Love has the ability to forgive and heal relationships."
     }
   ]
 }
