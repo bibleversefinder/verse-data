@@ -1,41 +1,41 @@
 {
   "query": "Yyyy",
-  "timestamp": "2025-08-13T05:27:47.350Z",
+  "timestamp": "2025-08-13T05:27:52.261Z",
   "results": [
     {
-      "reference": "Philippians 4:6",
-      "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+      "reference": "Psalm 23:4",
+      "text": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
       "version": "NIV",
-      "reason": "Encouragement to seek God in times of worry or anxiety.",
-      "reflection": "Instead of worrying, bring your concerns to God in prayer."
-    },
-    {
-      "reference": "Matthew 6:33",
-      "text": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
-      "version": "NIV",
-      "reason": "Encouragement to prioritize God in all aspects of life.",
-      "reflection": "When we seek God first, He provides for all our needs."
-    },
-    {
-      "reference": "Psalm 46:10",
-      "text": "Be still, and know that I am God; I will be exalted among the nations, I will be exalted in the earth.",
-      "version": "NIV",
-      "reason": "Call to trust in God's sovereignty and power.",
-      "reflection": "In moments of chaos, find peace in knowing God is in control."
+      "reason": "Assurance of God's presence and protection in difficult times.",
+      "reflection": "In the midst of darkness, God's presence brings comfort and courage."
     },
     {
       "reference": "Isaiah 41:10",
       "text": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
       "version": "NIV",
-      "reason": "Assurance of God's presence and support in times of fear.",
-      "reflection": "God's presence brings strength and peace in times of trouble."
+      "reason": "Encouragement to trust in God's strength and support.",
+      "reflection": "God's promise to be with us, strengthen us, and uphold us gives us courage."
+    },
+    {
+      "reference": "Matthew 11:28",
+      "text": "Come to me, all you who are weary and burdened, and I will give you rest.",
+      "version": "NIV",
+      "reason": "Invitation to find rest and peace in Jesus.",
+      "reflection": "Jesus offers rest to those who are tired and burdened, inviting us to find peace in Him."
+    },
+    {
+      "reference": "Philippians 4:6-7",
+      "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+      "version": "NIV",
+      "reason": "Instruction on overcoming anxiety through prayer and experiencing God's peace.",
+      "reflection": "Through prayer and thanksgiving, we can find peace that goes beyond human comprehension."
     },
     {
       "reference": "Romans 8:28",
       "text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose.",
       "version": "NIV",
       "reason": "Assurance that God works all things for the good of His people.",
-      "reflection": "Even in difficult circumstances, trust that God is working for your good."
+      "reflection": "Even in challenging circumstances, God is working for our ultimate good because of His love for us."
     }
   ]
 }
