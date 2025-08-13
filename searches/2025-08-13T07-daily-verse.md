@@ -8,45 +8,45 @@
 ### 1. Psalm 119:105 (NIV)
 > "Your word is a lamp for my feet, a light on my path."
 
-**Reason:** God's Word guiding our daily lives.
+**Reason:** God's word guides us daily.
 
-**Reflection:** In a world of darkness, let God's Word illuminate your path.
+**Reflection:** God's word illuminates our path in a dark world.
 
 ---
 
 ### 2. Matthew 6:11 (NIV)
 > "Give us today our daily bread."
 
-**Reason:** Prayer for God's provision daily.
+**Reason:** Trust in God for daily provision.
 
-**Reflection:** Trust God to provide for your needs each day.
+**Reflection:** Rely on God to provide for our daily needs.
 
 ---
 
-### 3. Lamentations 3:22-23 (NIV)
-> "Because of the Lord’s great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness."
+### 3. Lamentations 3:22-23 (ESV)
+> "The steadfast love of the Lord never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness."
 
-**Reason:** God's faithfulness and compassion daily.
+**Reason:** God's faithfulness renews every day.
 
-**Reflection:** God's faithfulness is renewed with every sunrise.
+**Reflection:** God's faithfulness and mercy are fresh each morning.
 
 ---
 
 ### 4. Proverbs 3:5-6 (NIV)
 > "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
 
-**Reason:** Daily guidance through trust in God.
+**Reason:** Rely on God's guidance daily.
 
-**Reflection:** Surrender your plans to God and let Him direct your steps.
+**Reflection:** Surrendering our ways to God leads to straight paths.
 
 ---
 
-### 5. James 1:22 (NIV)
-> "Do not merely listen to the word, and so deceive yourselves. Do what it says."
+### 5. Psalm 90:12 (NIV)
+> "Teach us to number our days, that we may gain a heart of wisdom."
 
-**Reason:** Applying God's Word daily.
+**Reason:** Seeking wisdom for each day.
 
-**Reflection:** Live out the truth of God's Word in your daily actions.
+**Reflection:** Understanding the brevity of life leads to wisdom.
 
 ---
 
