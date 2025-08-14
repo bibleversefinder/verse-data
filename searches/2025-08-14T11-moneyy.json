@@ -1,41 +1,41 @@
 {
   "query": "moneyy",
-  "timestamp": "2025-08-14T11:11:25.390Z",
+  "timestamp": "2025-08-14T11:11:52.790Z",
   "results": [
     {
       "reference": "1 Timothy 6:10",
       "text": "For the love of money is a root of all kinds of evil. Some people, eager for money, have wandered from the faith and pierced themselves with many griefs.",
       "version": "NIV",
       "reason": "Highlights the danger of loving money above all else.",
-      "reflection": "True wealth is found in faith and contentment, not in the pursuit of money."
+      "reflection": "True wealth is found in faith, not in the pursuit of material riches."
     },
     {
       "reference": "Matthew 6:24",
       "text": "No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.",
       "version": "NIV",
       "reason": "Emphasizes the impossibility of serving both God and money.",
-      "reflection": "Choosing to prioritize God over money leads to true fulfillment and purpose."
-    },
-    {
-      "reference": "Proverbs 23:4-5",
-      "text": "Do not wear yourself out to get rich; do not trust your own cleverness. Cast but a glance at riches, and they are gone, for they will surely sprout wings and fly off to the sky like an eagle.",
-      "version": "NIV",
-      "reason": "Warns against pursuing wealth at the expense of everything else.",
-      "reflection": "Material wealth is fleeting; seek eternal treasures that do not fade away."
+      "reflection": "Our allegiance should be to God alone, not to worldly wealth."
     },
     {
       "reference": "Proverbs 11:28",
       "text": "Those who trust in their riches will fall, but the righteous will thrive like a green leaf.",
       "version": "NIV",
-      "reason": "Draws a contrast between trusting in wealth versus righteousness.",
-      "reflection": "True prosperity comes from trusting in God, not in earthly possessions."
+      "reason": "Contrasts the fate of those who trust in money versus the righteous.",
+      "reflection": "Putting our trust in God yields true prosperity and abundance."
     },
     {
-      "reference": "Hebrews 13:5",
-      "text": "Keep your lives free from the love of money and be content with what you have, because God has said, 'Never will I leave you; never will I forsake you.'",
+      "reference": "Proverbs 3:9-10",
+      "text": "Honor the Lord with your wealth, with the firstfruits of all your crops; then your barns will be filled to overflowing, and your vats will brim over with new wine.",
       "version": "NIV",
-      "reason": "Encourages contentment and trust in God's provision.",
-      "reflection": "In God's presence and provision, true contentment is found, surpassing any material wealth."
+      "reason": "Encourages honoring God with our finances and promises blessings.",
+      "reflection": "God blesses those who are generous and prioritize Him with their resources."
+    },
+    {
+      "reference": "Luke 16:13",
+      "text": "No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.",
+      "version": "ESV",
+      "reason": "Reiterates the exclusive allegiance to God or money.",
+      "reflection": "Our hearts cannot be divided between God and wealth; we must choose whom we will serve."
     }
   ]
 }
