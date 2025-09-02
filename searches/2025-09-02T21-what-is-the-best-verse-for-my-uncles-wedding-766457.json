@@ -1,0 +1,41 @@
+{
+  "query": "what is the best verse for my uncles wedding?",
+  "timestamp": "2025-09-02T21:32:46.457Z",
+  "results": [
+    {
+      "reference": "Ephesians 5:25",
+      "text": "Husbands, love your wives, just as Christ loved the church and gave himself up for her.",
+      "version": "NIV",
+      "reason": "Highlighting the sacrificial love and commitment in marriage.",
+      "reflection": "Marriage is a reflection of Christ's love for the church."
+    },
+    {
+      "reference": "1 Corinthians 13:4-7",
+      "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.",
+      "version": "NIV",
+      "reason": "Describing the characteristics of true love within marriage.",
+      "reflection": "True love in marriage is patient, kind, and enduring."
+    },
+    {
+      "reference": "Colossians 3:14",
+      "text": "And over all these virtues put on love, which binds them all together in perfect unity.",
+      "version": "NIV",
+      "reason": "Emphasizing the importance of love in uniting a marriage.",
+      "reflection": "Love is the glue that holds a marriage together."
+    },
+    {
+      "reference": "Proverbs 18:22",
+      "text": "He who finds a wife finds what is good and receives favor from the LORD.",
+      "version": "NIV",
+      "reason": "Acknowledging the blessing and favor that marriage brings.",
+      "reflection": "Marriage is a gift and a blessing from the Lord."
+    },
+    {
+      "reference": "Ecclesiastes 4:9-10",
+      "text": "Two are better than one, because they have a good return for their labor: If either of them falls down, one can help the other up. But pity anyone who falls and has no one to help them up.",
+      "version": "NIV",
+      "reason": "Emphasizing the strength and support found in a marital partnership.",
+      "reflection": "In marriage, partners support and uplift each other through life's challenges."
+    }
+  ]
+}
