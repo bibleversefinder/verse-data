@@ -1,0 +1,41 @@
+{
+  "query": "is god on earth?",
+  "timestamp": "2025-09-02T21:20:49.809Z",
+  "results": [
+    {
+      "reference": "Isaiah 57:15",
+      "text": "For this is what the high and exalted One says— he who lives forever, whose name is holy: “I live in a high and holy place, but also with the one who is contrite and lowly in spirit, to revive the spirit of the lowly and to revive the heart of the contrite.",
+      "version": "NIV",
+      "reason": "God's presence among the humble.",
+      "reflection": "God dwells with the humble and contrite in heart."
+    },
+    {
+      "reference": "Matthew 18:20",
+      "text": "For where two or three gather in my name, there am I with them.",
+      "version": "NIV",
+      "reason": "Jesus' promise of presence when believers gather.",
+      "reflection": "Jesus is present when believers come together in His name."
+    },
+    {
+      "reference": "Colossians 1:27",
+      "text": "To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory.",
+      "version": "NIV",
+      "reason": "Christ's indwelling presence in believers.",
+      "reflection": "Christ resides within believers, offering hope and glory."
+    },
+    {
+      "reference": "1 Corinthians 3:16",
+      "text": "Do you not know that you are God’s temple and that God’s Spirit dwells in you?",
+      "version": "ESV",
+      "reason": "Believers are temples of God's Spirit.",
+      "reflection": "As believers, we are dwelling places of God's Spirit."
+    },
+    {
+      "reference": "Matthew 28:20",
+      "text": "And behold, I am with you always, to the end of the age.",
+      "version": "ESV",
+      "reason": "Jesus' promise of continual presence.",
+      "reflection": "Jesus promises to be with us always, until the end of the age."
+    }
+  ]
+}
