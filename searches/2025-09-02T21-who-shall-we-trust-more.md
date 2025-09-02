@@ -5,48 +5,48 @@
 
 ## 📖 Matched Verses
 
-### 1. Psalm 118:8 (NIV)
+### 1. Psalm 20:7 (NIV)
+> "Some trust in chariots and some in horses, but we trust in the name of the Lord our God."
+
+**Reason:** Emphasizes trusting in God over human strength or resources.
+
+**Reflection:** Our trust should be in the unchanging and faithful character of God.
+
+---
+
+### 2. Proverbs 3:5-6 (NIV)
+> "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
+
+**Reason:** Encourages complete trust in God's guidance and wisdom.
+
+**Reflection:** Trusting God wholeheartedly leads to a straight and purposeful path.
+
+---
+
+### 3. Psalm 118:8 (NIV)
 > "It is better to take refuge in the Lord than to trust in humans."
 
-**Reason:** Highlighting the superiority of trusting in the Lord over human beings.
+**Reason:** Highlights the superiority of trusting in the Lord over relying on people.
 
-**Reflection:** Trusting in the Lord provides true refuge and security.
-
----
-
-### 2. Proverbs 3:5 (NIV)
-> "Trust in the Lord with all your heart and lean not on your own understanding."
-
-**Reason:** Encouraging complete trust in the Lord rather than relying on human wisdom.
-
-**Reflection:** Trusting in the Lord wholeheartedly leads to divine guidance.
+**Reflection:** God is our ultimate refuge and source of trust, surpassing human limitations.
 
 ---
 
-### 3. Psalm 146:3 (ESV)
-> "Put not your trust in princes, in a son of man, in whom there is no salvation."
+### 4. Isaiah 26:4 (NIV)
+> "Trust in the Lord forever, for the Lord, the Lord himself, is the Rock eternal."
 
-**Reason:** Emphasizing the limitations of human leaders compared to God.
+**Reason:** Declares the everlasting reliability of God as our foundation.
 
-**Reflection:** True salvation comes from placing our trust in God alone.
-
----
-
-### 4. Isaiah 26:4 (ESV)
-> "Trust in the Lord forever, for the Lord God is an everlasting rock."
-
-**Reason:** Affirming the stability and reliability of trusting in the eternal God.
-
-**Reflection:** God is our unchanging and firm foundation on which we can confidently rely.
+**Reflection:** God is the unchanging Rock on which we can securely place our trust for eternity.
 
 ---
 
-### 5. Jeremiah 17:7 (ESV)
-> "Blessed is the man who trusts in the Lord, whose trust is the Lord."
+### 5. Jeremiah 17:7 (NIV)
+> "But blessed is the one who trusts in the Lord, whose confidence is in him."
 
-**Reason:** Highlighting the blessings of placing one's trust solely in the Lord.
+**Reason:** Promises blessings to those who trust in the Lord.
 
-**Reflection:** True fulfillment and blessings come from trusting in the Lord wholeheartedly.
+**Reflection:** True blessing and security come from placing our confidence and trust in God.
 
 ---
 
