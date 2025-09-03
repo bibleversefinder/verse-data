@@ -1,0 +1,53 @@
+# 🔍 Search: "Bible verses about healing"
+🕒 2025-09-03 06:36
+
+**Query:** Bible verses about healing
+
+## 📖 Matched Verses
+
+### 1. James 5:14-15 (NIV)
+> "Is anyone among you sick? Let them call the elders of the church to pray over them and anoint them with oil in the name of the Lord. And the prayer offered in faith will make the sick person well; the Lord will raise them up. If they have sinned, they will be forgiven."
+
+**Reason:** This passage instructs believers to seek prayer and anointing from church leaders when sick, emphasizing community and faith in God's power to heal. It highlights the role of faith and prayer in the healing process and connects physical healing with spiritual forgiveness.
+
+**Reflection:** This verse encourages us to actively seek support from our faith community in times of illness, reminding us that healing can be a communal and spiritual journey. It challenges us to have faith in God's ability to heal and to value the power of prayer and forgiveness, offering a holistic approach to healing that addresses both body and soul.
+
+---
+
+### 2. Isaiah 53:5 (NIV)
+> "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed."
+
+**Reason:** This prophecy about Jesus' suffering underscores the belief that through His sacrifice, believers are offered healing. It presents a theological foundation for understanding healing as part of the redemption brought by Christ's atonement.
+
+**Reflection:** Isaiah 53:5 invites us to reflect on the profound spiritual healing available through Christ's sacrifice. It assures us that Jesus' suffering has a direct impact on our spiritual well-being, offering peace and healing from the enduring wounds of sin. This verse encourages us to embrace the healing that comes from accepting Christ's love and sacrifice.
+
+---
+
+### 3. Matthew 9:35 (NIV)
+> "Jesus went through all the towns and villages, teaching in their synagogues, proclaiming the good news of the kingdom and healing every disease and sickness."
+
+**Reason:** This verse highlights Jesus' ministry, which included healing as a central component of His work. It demonstrates His compassion and divine authority, offering a powerful testament to His ability to heal all manner of physical and spiritual ailments.
+
+**Reflection:** Matthew 9:35 challenges us to consider the breadth of Jesus' mission and His deep compassion for the suffering. It reminds us that healing is intrinsic to the Gospel message and that Jesus is deeply concerned with our physical and spiritual well-being. As followers of Christ, we are encouraged to seek His healing and to extend His love and care to others in need.
+
+---
+
+### 4. Psalm 103:2-3 (NIV)
+> "Praise the Lord, my soul, and forget not all his benefits—who forgives all your sins and heals all your diseases."
+
+**Reason:** This Psalm celebrates God's comprehensive care for His people, linking forgiveness of sins and healing of diseases as expressions of His benevolence. It encourages remembrance and gratitude for God's ongoing work in our lives.
+
+**Reflection:** This passage reminds us to continually praise and remember the goodness of God, who offers both forgiveness and healing. It inspires gratitude and faith, urging us to acknowledge and celebrate the ways God has worked in our lives. As we reflect on His benefits, we are encouraged to trust in His power to heal and restore us.
+
+---
+
+### 5. 1 Peter 2:24 (NIV)
+> "He himself bore our sins in his body on the cross, so that we might die to sins and live for righteousness; by his wounds you have been healed."
+
+**Reason:** This verse emphasizes the spiritual healing made possible through Christ's sacrifice. It speaks to the transformation that occurs when believers embrace the righteousness enabled by Jesus' atonement, highlighting the connection between physical healing and spiritual renewal.
+
+**Reflection:** 1 Peter 2:24 calls us to reflect on the transformative power of Christ's sacrifice, which heals us from the inside out. It invites us to live in righteousness, empowered by the healing of our spiritual wounds. This verse offers hope and encouragement, urging us to embrace the new life made possible through Jesus' redemptive work.
+
+---
+
+🔗 **Discover more verses at:** https://www.bibleversefinder.app
