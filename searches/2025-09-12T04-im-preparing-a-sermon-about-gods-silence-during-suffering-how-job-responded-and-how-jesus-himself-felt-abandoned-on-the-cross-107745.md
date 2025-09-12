@@ -1,0 +1,53 @@
+# 🔍 Search: "“I’m preparing a sermon about God’s silence during suffering, how Job responded, and how Jesus Himself felt abandoned on the cross.”"
+🕒 2025-09-12 04:41
+
+**Query:** “I’m preparing a sermon about God’s silence during suffering, how Job responded, and how Jesus Himself felt abandoned on the cross.”
+
+## 📖 Matched Verses
+
+### 1. Job 23:8-10
+> "But if I go to the east, he is not there; if I go to the west, I do not find him. When he is at work in the north, I do not see him; when he turns to the south, I catch no glimpse of him. But he knows the way that I take; when he has tested me, I will come forth as gold."
+
+**Reason:** This passage captures Job's feeling of God's absence despite his constant search during his trials. Job acknowledges his inability to perceive God's presence but remains confident that God is aware of his journey and that his suffering has a purpose.
+
+**Reflection:** In moments of suffering, we may feel abandoned as Job did, yet we can trust that God is working in ways we cannot see. Like Job, we are called to endure and believe that our trials refine us, strengthening our faith like gold purified by fire. Let us hold onto this hope and continue to seek God, trusting His ultimate plan for our lives.
+
+---
+
+### 2. Job 13:15
+> "Though he slay me, yet will I hope in him; I will surely defend my ways to his face."
+
+**Reason:** Here Job expresses a profound faith in God despite his intense suffering. He is resolved to maintain his hope in God's goodness, even though he feels afflicted and without answers.
+
+**Reflection:** Job's unwavering hope serves as a powerful example of faith. In our own sufferings, we can choose to trust God’s character and promises, even when circumstances seem dire. This verse encourages us to cling to hope and maintain our integrity, trusting that God is with us, even in silence.
+
+---
+
+### 3. Psalm 22:1
+> "My God, my God, why have you forsaken me? Why are you so far from saving me, so far from my cries of anguish?"
+
+**Reason:** This lament by David expresses a feeling of abandonment, echoed by Jesus on the cross. It captures the depth of human despair when God seems distant and unresponsive to our cries.
+
+**Reflection:** Jesus’ use of this psalm on the cross connects our suffering to His own, reminding us that He understands our pain and feelings of abandonment. In these moments, we can find solace in knowing that our Savior has walked the path of suffering and invites us to bring our anguish to God, trusting in His ultimate redemption.
+
+---
+
+### 4. Matthew 27:46
+> "About the ninth hour Jesus cried out with a loud voice, saying, 'Eli, Eli, lema sabachthani?' that is, 'My God, my God, why have you forsaken me?'"
+
+**Reason:** This verse records Jesus' cry of abandonment on the cross, highlighting the depth of His suffering and the sense of separation from God He experienced at that moment.
+
+**Reflection:** Jesus' cry on the cross reassures us that He fully empathizes with our feelings of abandonment. His willingness to endure this separation paves the way for our reconciliation with God. In our darkest times, we can take comfort in the knowledge that Jesus' sacrifice bridges the gap, and we are never truly forsaken.
+
+---
+
+### 5. Isaiah 53:3
+> "He was despised and rejected by mankind, a man of suffering, and familiar with pain. Like one from whom people hide their faces he was despised, and we held him in low esteem."
+
+**Reason:** Isaiah's prophecy about the suffering servant foretells the rejection and pain Jesus would endure. It underscores His willingness to enter into human suffering to fulfill God's redemptive plan.
+
+**Reflection:** This verse invites us to reflect on Jesus’ solidarity with our suffering. Knowing that He willingly embraced pain and rejection for our sake can inspire us to endure our own trials with hope and perseverance. We are reminded that in our suffering, we are not alone; Christ walks with us, offering hope and the promise of eventual restoration.
+
+---
+
+🔗 **Discover more verses at:** https://www.bibleversefinder.app
